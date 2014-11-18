@@ -1,4 +1,5 @@
 #include <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 /**
 * Find Usages
@@ -12,7 +13,10 @@
 const static int MIN_VALUE = 1;
 const static int MAX_VALUE = 100;
 
-@implementation FindUsages : NSObject
+@interface FindUsages : UIViewController
+@end
+
+@implementation FindUsages
 
 
 // 1. Place the caret on adjust:with: and Find Usages.
@@ -31,5 +35,10 @@ const static int MAX_VALUE = 100;
     }
 
     return newValue;
+}
+
+// 3. Let's now see if this IBAction is used anywhere.
+//    Place the caren on 'whenButtonClicked' name and press Alt+F7.
+- (IBAction)whenButtonClicked:(id)sender {
 }
 @end

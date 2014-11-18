@@ -113,6 +113,7 @@
 		58AAA994A3784D0346F602F1 /* 07 - Find Issues.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */; };
 		58AAA9B303DA6D1EFCABCD0C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA7A3FF03E007DD7A6D44 /* DetailViewController.m */; };
 		58AAA9FFE5BA855293CEC796 /* 6.1. Generate Code.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA656B316255D79FB9849 /* 6.1. Generate Code.m */; };
+		58AAAA1A1A108D31AA1EC5B2 /* FindUsages.xib in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */; };
 		58AAAA3A0A2F086D12992097 /* 5.1. Highlight Usages in File.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */; };
 		58AAAA64712BEB55BF7F39F3 /* KWBeMemberOfClassMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA2BF235534CB13A12A2E /* KWBeMemberOfClassMatcher.m */; };
 		58AAAA7E87F9BC09195C4471 /* NSObject+KiwiStubAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA96B261343F473578758 /* NSObject+KiwiStubAdditions.m */; };
@@ -275,6 +276,7 @@
 		58AAA4C5BA487FFAFB811EE8 /* KWBeZeroMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeZeroMatcher.h; sourceTree = "<group>"; };
 		58AAA4C5C2EF8C86B73F29ED /* KWSuiteConfigurationBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWSuiteConfigurationBase.h; sourceTree = "<group>"; };
 		58AAA4C5FAE219C2815EA116 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FindUsages.xib; sourceTree = "<group>"; };
 		58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "5.1. Highlight Usages in File.m"; sourceTree = "<group>"; };
 		58AAA5019182A846A65AC786 /* KWMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMatcher.h; sourceTree = "<group>"; };
 		58AAA51036E61B98F49329E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = LaunchScreen.xib; sourceTree = "<group>"; };
@@ -526,6 +528,7 @@
 			isa = PBXGroup;
 			children = (
 				58AAA5309460CEF09E96725B /* FindUsagesSample.m */,
+				58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -1267,6 +1270,7 @@
 				58AAA2C8F2B667ABB781FE3E /* samplerequest.xml in Resources */,
 				58AAA03FC93B499C2B9166A0 /* 01 - REST Client.txt in Resources */,
 				58AAAF3ACDD52BE63311324B /* 06 - Local Terminal.txt in Resources */,
+				58AAAA1A1A108D31AA1EC5B2 /* FindUsages.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
