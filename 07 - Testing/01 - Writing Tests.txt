@@ -1,0 +1,35 @@
+/**
+ * Writing tests
+ *
+ * Create new File from Xcode Template, select Unit Test.
+ *
+ * Command+N - Generate setUp/tearDown/test methods
+ * Shift+Command+T - switch between a test and code under testing
+ *
+ * Running tests
+ *
+ * Ctrl+R - run/debug selected configuration.
+ * Shift+Ctrl+R - run/debug test class/method selected in the editor, project view, test results etc.
+ */
+
+// 1. Create a new XCTest class named QueueTest. Make sure the test is added to the 'Testing' target.
+//    It should contain all necessary methods by default.
+//
+// 2. You can generate setUp/tearDown/test methods using Generate (Command+N).
+//    Delete all methods from the newly created class.
+//    Press Command+N to generate a new test method, give it a name and press enter.
+//
+// 3. Copy and paste the following code into the test methods and uncomment it using Command+/ shortcut.
+//
+//    Queue *queue = [Queue new];
+//    [queue enqueue:@"hi"];
+//    XCTAssertEqual([queue getNumberOfItems], 1);
+//
+// 4. Run the test method by putting the caret into the method and pressing Shift+Ctrl+R.
+//    You can switch between destinations (devices and simulators) in the tool bar's combo box.
+//
+//    Test will fail.
+//
+// 5. To see what's wrong, navigate to the class under testing using Go To Test/Subject shortcut (Shift+Command+T)
+//    Correct the mistake and rerun tests using Ctrl+R shortcut.
+

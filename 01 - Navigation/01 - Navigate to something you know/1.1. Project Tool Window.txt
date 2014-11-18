@@ -1,0 +1,14 @@
+Project Tool Window
+
+Shows all build files and files in in project folder
+
+Command+1
+
+1. Open the Project Tool Window.
+2. Switch to Files view using Next/Previous tab shortcut (Command+Shift+Left/Right)
+3. Using the arrow keys, navigate to 01 - Navigation/01 - Navigate to something you know/Sources
+4. Start typing "Bar". Navigate to the next exercise.
+   Note that the files not included into the project are greyed out.
+5. Switch back to Project view and locate 01 - Navigation/01 - Navigate to something you know/Group.
+   Note that its icon is also greyed out since it's not associated with a real folder. It's a 'virtual group'
+

@@ -1,0 +1,14 @@
+Navigate to Symbol
+
+Navigate to a symbol by symbol name.
+
+Alt+Command+O
+
+1. Navigate to symbol
+   Navigate to the 'detailDescriptionLabel' property of DetailViewController class.
+
+2. Use CamelHumps to navigate
+   Navigate to the application:didFinishLaunchingWithOptions: method using CamelHumps (type "adf")
+
+3. Note that middle matching and wildcards also work when searching symbols.
+   Example searches: "didFinish" or "finish" for the application:didFinishLaunchingWithOptions: method.

@@ -1,0 +1,20 @@
+Create a file template.
+
+These are applied when creating a new file or generating code. Can contain includes. Customize code generation.
+
+1. Open the IDE settings and navigate to IDE Settings | File and Code Templates
+2. Under includes, edit the C File Header include so that it matches your preference. Save the changes.
+3. Create a new file: Command+N and generate a new C class in the current folder.
+   The header for this file should reflect the changes we just made.
+4. Create a new file template for an XCTest test:
+
+#parse("C File Header.h")
+
+\#include <XCTest/XCTest.h>
+
+@implementation ${Name} : XCTest
+-(void)testSomething {
+}
+@end
+
+5. Test the new file template. Note that the variables defined in the template can be provided through the New File dialog.
