@@ -35,6 +35,7 @@
 		58AAA20BA946A26C9D432DDE /* 03 - Copy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA3ED29C4961B832C04EF /* 03 - Copy.txt */; };
 		58AAA22610B1750575CE80DB /* KWHaveValueMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAE222BF91BFA6DE3D157 /* KWHaveValueMatcher.m */; };
 		58AAA23700A7957C5AFACA44 /* KWItNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA3D7F8C3AF7CA1624013 /* KWItNode.m */; };
+		58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6D3AB750C38DD898E86 /* 6.2. Override-Implement in Swift.swift */; };
 		58AAA2711A1014B161C73787 /* KWMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6F6A6B6D6D88884131C /* KWMatcher.m */; };
 		58AAA2A270A3E4B82F9813B1 /* helloworld.sh in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA96753963B70BABF6C32 /* helloworld.sh */; };
 		58AAA2BBBF8FF4AEF6315212 /* SafeDeleteUsage.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA65CDCA4D5AB192D2CA7 /* SafeDeleteUsage.m */; };
@@ -117,7 +118,7 @@
 		58AAA97A81886A7C0BCC0DA6 /* 00 - Preparations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA722A243CF31A763CC48 /* 00 - Preparations.txt */; };
 		58AAA994A3784D0346F602F1 /* 07 - Find Issues.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */; };
 		58AAA9B303DA6D1EFCABCD0C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA7A3FF03E007DD7A6D44 /* DetailViewController.m */; };
-		58AAA9FFE5BA855293CEC796 /* 6.1. Generate Code.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA656B316255D79FB9849 /* 6.1. Generate Code.m */; };
+		58AAA9FFE5BA855293CEC796 /* 6.1. Generating code in OC.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA656B316255D79FB9849 /* 6.1. Generating code in OC.m */; };
 		58AAAA1A1A108D31AA1EC5B2 /* FindUsages.xib in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */; };
 		58AAAA3A0A2F086D12992097 /* 5.1. Highlight Usages in File.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */; };
 		58AAAA64712BEB55BF7F39F3 /* KWBeMemberOfClassMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA2BF235534CB13A12A2E /* KWBeMemberOfClassMatcher.m */; };
@@ -312,7 +313,7 @@
 		58AAA63F5A020830AFB3A01A /* KWNull.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWNull.m; sourceTree = "<group>"; };
 		58AAA64062F316375940C811 /* KWStringPrefixMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWStringPrefixMatcher.h; sourceTree = "<group>"; };
 		58AAA64EDB561016A2F8CCCE /* NSValue+KiwiAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSValue+KiwiAdditions.m"; sourceTree = "<group>"; };
-		58AAA656B316255D79FB9849 /* 6.1. Generate Code.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "6.1. Generate Code.m"; sourceTree = "<group>"; };
+		58AAA656B316255D79FB9849 /* 6.1. Generating code in OC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "6.1. Generating code in OC.m"; sourceTree = "<group>"; };
 		58AAA658F5A468B5EC8EC505 /* KWFutureObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWFutureObject.h; sourceTree = "<group>"; };
 		58AAA65CDCA4D5AB192D2CA7 /* SafeDeleteUsage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SafeDeleteUsage.m; sourceTree = "<group>"; };
 		58AAA65FCF1BF16D54B18E0E /* KWDeviceInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWDeviceInfo.m; sourceTree = "<group>"; };
@@ -324,6 +325,7 @@
 		58AAA6B92BF85F01C7819AE7 /* KWGenericMatchingAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWGenericMatchingAdditions.h; sourceTree = "<group>"; };
 		58AAA6B9F2A050580B0638D4 /* NSObject+KiwiSpyAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+KiwiSpyAdditions.h"; sourceTree = "<group>"; };
 		58AAA6C01F28E957C30F32B8 /* 2.3. Quick definition and documentation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "2.3. Quick definition and documentation.m"; sourceTree = "<group>"; };
+		58AAA6D3AB750C38DD898E86 /* 6.2. Override-Implement in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "6.2. Override-Implement in Swift.swift"; sourceTree = "<group>"; };
 		58AAA6D8B1E1F75AA813D203 /* KWContainMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWContainMatcher.m; sourceTree = "<group>"; };
 		58AAA6F6A6B6D6D88884131C /* KWMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMatcher.m; sourceTree = "<group>"; };
 		58AAA6FCB07E29B335B69103 /* KWPendingNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWPendingNode.h; sourceTree = "<group>"; };
@@ -1027,7 +1029,8 @@
 		58AAAB94908D56B6ACF654AA /* 06 - Generate code */ = {
 			isa = PBXGroup;
 			children = (
-				58AAA656B316255D79FB9849 /* 6.1. Generate Code.m */,
+				58AAA656B316255D79FB9849 /* 6.1. Generating code in OC.m */,
+				58AAA6D3AB750C38DD898E86 /* 6.2. Override-Implement in Swift.swift */,
 			);
 			path = "06 - Generate code";
 			sourceTree = "<group>";
@@ -1228,7 +1231,7 @@
 				58AAA02C65D321AE489BF775 /* 5.1. Intentions.m in Resources */,
 				58AAAB9F4291EF1F4A770757 /* 3.1. Moving Code.m in Resources */,
 				58AAAE750F981F1CC71A0823 /* 4.1. Surround with.m in Resources */,
-				58AAA9FFE5BA855293CEC796 /* 6.1. Generate Code.m in Resources */,
+				58AAA9FFE5BA855293CEC796 /* 6.1. Generating code in OC.m in Resources */,
 				58AAA8BFE518E32C47B2CECA /* 2.1. Expand Selection.m in Resources */,
 				58AAA5151B4190BE78A58DB1 /* 2.2. Column Selection.m in Resources */,
 				58AAA5BE0324C750F68C6609 /* Images.xcassets in Resources */,
@@ -1417,6 +1420,7 @@
 				58AAA4A34447AE0EEB8C25F2 /* 6.2. Structure in Swift files.swift in Sources */,
 				58AAA134A7FD107D0C182B16 /* SwiftUser.swift in Sources */,
 				58AAA084C1716B111EA03B06 /* 02 - Quick Fixes in Swift.swift in Sources */,
+				58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
