@@ -37,6 +37,7 @@
 		58AAA23700A7957C5AFACA44 /* KWItNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA3D7F8C3AF7CA1624013 /* KWItNode.m */; };
 		58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6D3AB750C38DD898E86 /* 6.2. Override-Implement in Swift.swift */; };
 		58AAA2711A1014B161C73787 /* KWMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6F6A6B6D6D88884131C /* KWMatcher.m */; };
+		58AAA27A06CEB03E7745282C /* 1.2. Navigation Bar.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAB7F20A5CDA964A92A98 /* 1.2. Navigation Bar.txt */; };
 		58AAA2A270A3E4B82F9813B1 /* helloworld.sh in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA96753963B70BABF6C32 /* helloworld.sh */; };
 		58AAA2BBBF8FF4AEF6315212 /* SafeDeleteUsage.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA65CDCA4D5AB192D2CA7 /* SafeDeleteUsage.m */; };
 		58AAA2C59795B5CFB0DFCA4E /* KWReceiveMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAADF641B5E85A546893CD /* KWReceiveMatcher.m */; };
@@ -82,6 +83,7 @@
 		58AAA640900B1D3205A90E0D /* NSInvocation+OCMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA3A5A523FEABD52C74C8 /* NSInvocation+OCMAdditions.m */; };
 		58AAA644C71010AD8D334FAB /* NSValue+KiwiAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA64EDB561016A2F8CCCE /* NSValue+KiwiAdditions.m */; };
 		58AAA681361D6A60452ADB4A /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA5D3399AAC6D1C3AD524 /* User.m */; };
+		58AAA685C2D2D6F225CD6712 /* 1.4. Navigate to file.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA0337C2CCD91472FAF0E /* 1.4. Navigate to file.txt */; };
 		58AAA6C89DDA92EF36B31862 /* 01 - Enable VCS integration.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAABF5C677801679493DFF /* 01 - Enable VCS integration.txt */; };
 		58AAA6F36016900424DCAB0F /* 02 - Change Signature.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAADB334219B6976B5D169 /* 02 - Change Signature.m */; };
 		58AAA70E707482947DD6C66B /* KWStringUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC26196045FDFF3A5CE2 /* KWStringUtilities.m */; };
@@ -103,6 +105,7 @@
 		58AAA8685EB0791B711A5585 /* KWExampleSuite.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA0BDFB09B2D9361673D7 /* KWExampleSuite.m */; };
 		58AAA86B4AF637E26B212F97 /* 1.2. Import Completion.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA5DA59546956F8F1DF1C /* 1.2. Import Completion.m */; };
 		58AAA8839C88782E4178636D /* KWAfterAllNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA78B9A4CA4F92A56D26D /* KWAfterAllNode.m */; };
+		58AAA897C2A6CD6366C85C9B /* 1.5. Navigate to symbol.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA7710B6A9693D33AB140 /* 1.5. Navigate to symbol.txt */; };
 		58AAA8A1FA31B6D4FA11867B /* 12 - Pull and Push Members.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA9614160829B719A6867 /* 12 - Pull and Push Members.m */; };
 		58AAA8AB9EE5CE0C07060ECA /* 04 - Viewing history.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */; };
 		58AAA8BFE518E32C47B2CECA /* 2.1. Expand Selection.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA87A6D64F6C09CD55189 /* 2.1. Expand Selection.m */; };
@@ -170,6 +173,7 @@
 		58AAAE750F981F1CC71A0823 /* 4.1. Surround with.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA5AEC10CFA717A09B8E2 /* 4.1. Surround with.m */; };
 		58AAAE9A5E94471684A2B743 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA9FF233279BA1AE0A73D /* MasterViewController.m */; };
 		58AAAEAFE4A5634381741008 /* 14 - Safe Delete.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAC9BEC03C862AFD2BE93 /* 14 - Safe Delete.m */; };
+		58AAAED1C97F5DC4F03299FB /* 1.3. Navigate to class.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAE66FCB32B22FBFD694E /* 1.3. Navigate to class.txt */; };
 		58AAAEF158B576B8352B00BF /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58AAA67FD91D370D07BAC897 /* SpriteKit.framework */; };
 		58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.m */; };
 		58AAAF1D573E025F06E95375 /* KWCaptureSpy.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACCBB3771A18071ACE9E /* KWCaptureSpy.m */; };
@@ -184,6 +188,7 @@
 		58AAAFAD64874A2AF2748D0D /* 3.1. Simple template.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAEAB6E104EA8684274F9 /* 3.1. Simple template.m */; };
 		58AAAFAE7089C2D7BB05BEAC /* 05 - Extract Constant.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAED32389AEA58F9FD8DD /* 05 - Extract Constant.m */; };
 		58AAAFB14E4DC680EAAB2874 /* NSNumber+KiwiAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAF804CD6AA074DC8942D /* NSNumber+KiwiAdditions.m */; };
+		58AAAFC0B00DE41BA637D3B9 /* 1.6. Search everywhere.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA3640542FC8D4D2DEAE8 /* 1.6. Search everywhere.txt */; };
 		58AAAFD176561C989613E93B /* 3.4. Recent edits.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAACC9E5DD69E37C328BC2 /* 3.4. Recent edits.m */; };
 		58AAAFDD20EDC5E92914D5E7 /* KWSuiteConfigurationBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACC7BEEFA87008882B02 /* KWSuiteConfigurationBase.m */; };
 		58AAAFDF88B9DC1DF8402F3B /* KWValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1E2214E2E0DB39389C7 /* KWValue.m */; };
@@ -195,6 +200,7 @@
 		58AAA00E1227DD37B683AC77 /* KWNotificationMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWNotificationMatcher.h; sourceTree = "<group>"; };
 		58AAA00F4FF41C6C497A6EDA /* NSMethodSignature+KiwiAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMethodSignature+KiwiAdditions.m"; sourceTree = "<group>"; };
 		58AAA011108F3209F8887EA0 /* KWIntercept.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWIntercept.m; sourceTree = "<group>"; };
+		58AAA0337C2CCD91472FAF0E /* 1.4. Navigate to file.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1.4. Navigate to file.txt"; sourceTree = "<group>"; };
 		58AAA03F30D4038A6485FD13 /* KWExampleSuiteBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWExampleSuiteBuilder.m; sourceTree = "<group>"; };
 		58AAA041C72CEAA49301381E /* NSMethodSignature+KiwiAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMethodSignature+KiwiAdditions.h"; sourceTree = "<group>"; };
 		58AAA047E6D7B5DC7F17A5FE /* KWStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWStub.h; sourceTree = "<group>"; };
@@ -251,6 +257,7 @@
 		58AAA3384E44E053AE7A1289 /* NSInvocation+KiwiAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSInvocation+KiwiAdditions.m"; sourceTree = "<group>"; };
 		58AAA3400A44119832128902 /* KWBeIdenticalToMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWBeIdenticalToMatcher.m; sourceTree = "<group>"; };
 		58AAA34BE621C62702ABB63C /* KWBeSubclassOfClassMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeSubclassOfClassMatcher.h; sourceTree = "<group>"; };
+		58AAA3640542FC8D4D2DEAE8 /* 1.6. Search everywhere.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1.6. Search everywhere.txt"; sourceTree = "<group>"; };
 		58AAA364D18BF7810DEB2A93 /* KWMessageTracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMessageTracker.h; sourceTree = "<group>"; };
 		58AAA37DBDE8635B87F534D4 /* KWAfterEachNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWAfterEachNode.h; sourceTree = "<group>"; };
 		58AAA39807372EF85CEA10E2 /* KWBeforeEachNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeforeEachNode.h; sourceTree = "<group>"; };
@@ -337,6 +344,7 @@
 		58AAA75B62F9E6D37709F83D /* KWPendingNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWPendingNode.m; sourceTree = "<group>"; };
 		58AAA768492BEA8D16CB36B4 /* 1.3. Smart completion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "1.3. Smart completion.m"; sourceTree = "<group>"; };
 		58AAA76CEC24B4BC84DAA5C5 /* 2.2. Column Selection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "2.2. Column Selection.m"; sourceTree = "<group>"; };
+		58AAA7710B6A9693D33AB140 /* 1.5. Navigate to symbol.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1.5. Navigate to symbol.txt"; sourceTree = "<group>"; };
 		58AAA778C09BF5C2A47F965A /* KWRegisterMatchersNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWRegisterMatchersNode.h; sourceTree = "<group>"; };
 		58AAA78B697C0E997F247DB4 /* KWExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExample.h; sourceTree = "<group>"; };
 		58AAA78B9A4CA4F92A56D26D /* KWAfterAllNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWAfterAllNode.m; sourceTree = "<group>"; };
@@ -401,6 +409,7 @@
 		58AAAB6C51FB0B7C6A86486D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		58AAAB6F299CE7BEB1E1FF62 /* KWExampleNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExampleNode.h; sourceTree = "<group>"; };
 		58AAAB7A5D4D5D86BD8C9651 /* KWProbe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWProbe.h; sourceTree = "<group>"; };
+		58AAAB7F20A5CDA964A92A98 /* 1.2. Navigation Bar.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1.2. Navigation Bar.txt"; sourceTree = "<group>"; };
 		58AAABAEBB99EAA1DFD756FE /* license.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = license.txt; sourceTree = "<group>"; };
 		58AAABBA44BD75860A50754B /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		58AAABCAF991E6A61219B2A1 /* KWHaveValueMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWHaveValueMatcher.h; sourceTree = "<group>"; };
@@ -456,6 +465,7 @@
 		58AAAE222BF91BFA6DE3D157 /* KWHaveValueMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWHaveValueMatcher.m; sourceTree = "<group>"; };
 		58AAAE5502F1D8BAA6954250 /* NSValue+KiwiAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSValue+KiwiAdditions.h"; sourceTree = "<group>"; };
 		58AAAE5F36FD6A1B0151B3A5 /* KWCountType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWCountType.h; sourceTree = "<group>"; };
+		58AAAE66FCB32B22FBFD694E /* 1.3. Navigate to class.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1.3. Navigate to class.txt"; sourceTree = "<group>"; };
 		58AAAE6AC54DBB36A2FC721B /* BadlyNamedView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BadlyNamedView.xib; sourceTree = "<group>"; };
 		58AAAE735519872F153664C4 /* 05 - Git Mercurial Push.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "05 - Git Mercurial Push.txt"; sourceTree = "<group>"; };
 		58AAAE74770F027812160A58 /* KWWorkarounds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWWorkarounds.h; sourceTree = "<group>"; };
@@ -675,6 +685,11 @@
 			children = (
 				58AAA217E7D5488977FBC6CD /* 1.1. Project Tool Window.txt */,
 				58AAA7BB2CFC191490867CDD /* Group */,
+				58AAAE66FCB32B22FBFD694E /* 1.3. Navigate to class.txt */,
+				58AAA7710B6A9693D33AB140 /* 1.5. Navigate to symbol.txt */,
+				58AAA3640542FC8D4D2DEAE8 /* 1.6. Search everywhere.txt */,
+				58AAA0337C2CCD91472FAF0E /* 1.4. Navigate to file.txt */,
+				58AAAB7F20A5CDA964A92A98 /* 1.2. Navigation Bar.txt */,
 			);
 			path = "01 - Navigate to something you know";
 			sourceTree = "<group>";
@@ -1282,6 +1297,11 @@
 				58AAAA1A1A108D31AA1EC5B2 /* FindUsages.xib in Resources */,
 				58AAA8F236C8356CF8BF1D54 /* facebook.png in Resources */,
 				58AAA62A1B718AC0D7690FF6 /* twitter.png in Resources */,
+				58AAAED1C97F5DC4F03299FB /* 1.3. Navigate to class.txt in Resources */,
+				58AAA897C2A6CD6366C85C9B /* 1.5. Navigate to symbol.txt in Resources */,
+				58AAAFC0B00DE41BA637D3B9 /* 1.6. Search everywhere.txt in Resources */,
+				58AAA685C2D2D6F225CD6712 /* 1.4. Navigate to file.txt in Resources */,
+				58AAA27A06CEB03E7745282C /* 1.2. Navigation Bar.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

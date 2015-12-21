@@ -16,7 +16,7 @@
 #include "User.h"
 
 void quickDefinition() {
-    User *user = [[User alloc] initWithName: name age: age];
+    User *user = [[User alloc] initWithName: @"name" age: 30];
 
     // 1. Place the caret on celebrateBirthday and see a quick definition
     // 2. Place the caret on celebrateBirthday and see a quick documentation.

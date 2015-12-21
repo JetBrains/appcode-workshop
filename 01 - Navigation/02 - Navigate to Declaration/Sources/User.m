@@ -20,7 +20,7 @@
 }
 @end
 
-@implementation SuperUser
+@implementation ObjectiveCUser
 - (void)celebrateBirthday {
     [super celebrateBirthday];
 }

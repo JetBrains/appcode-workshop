@@ -5,5 +5,5 @@
 - (void)celebrateBirthday;
 @end
 
-@interface SuperUser : User
+@interface ObjectiveCUser : User
 @end
