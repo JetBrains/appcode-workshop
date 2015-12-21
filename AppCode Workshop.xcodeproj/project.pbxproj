@@ -60,6 +60,7 @@
 		58AAA471C814412A3F2497D6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58AAAA06CBF0A2F31F3092C5 /* UIKit.framework */; };
 		58AAA4988D91132E0684433B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58AAAD9F47F1D04DA8550B36 /* CoreGraphics.framework */; };
 		58AAA4A1B63C4E33A93A24B9 /* 09 - Extract protocol.h in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA4453316C759869FD5A8 /* 09 - Extract protocol.h */; };
+		58AAA4A34447AE0EEB8C25F2 /* 6.2. Structure in Swift files.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA07C995D3E7DD569576D /* 6.2. Structure in Swift files.swift */; };
 		58AAA4B8FFFFFA68807ABD8B /* KWBeZeroMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAD6DF1439D2FE913FAEB /* KWBeZeroMatcher.m */; };
 		58AAA4E4F2DF7AFA389EAB14 /* NSObject+KiwiSpyAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA887E64681D140DEF870 /* NSObject+KiwiSpyAdditions.m */; };
 		58AAA4EC15547F149694A1C8 /* KWConformToProtocolMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAF9597B08A644384EA70 /* KWConformToProtocolMatcher.m */; };
@@ -195,6 +196,7 @@
 		58AAA053F04D2D42C1039EA7 /* KWGenericMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWGenericMatcher.m; sourceTree = "<group>"; };
 		58AAA0653F9F31E00574FB77 /* KWBeTrueMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeTrueMatcher.h; sourceTree = "<group>"; };
 		58AAA079D4B6D170AA83CFCD /* KWAfterEachNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWAfterEachNode.m; sourceTree = "<group>"; };
+		58AAA07C995D3E7DD569576D /* 6.2. Structure in Swift files.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "6.2. Structure in Swift files.swift"; sourceTree = "<group>"; };
 		58AAA0850A60D4771ADC9E50 /* 03 - Committing Changes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "03 - Committing Changes.txt"; sourceTree = "<group>"; };
 		58AAA085E5DD39659D317FFF /* AppCode Reference Card.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "AppCode Reference Card.pdf"; sourceTree = "<group>"; };
 		58AAA0B35622DA35B03C36B6 /* KWNotificationMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWNotificationMatcher.m; sourceTree = "<group>"; };
@@ -724,11 +726,12 @@
 			isa = PBXGroup;
 			children = (
 				58AAA2CC4E392F715A3D4183 /* 6.1. Structure in OC files.m */,
+				58AAA07C995D3E7DD569576D /* 6.2. Structure in Swift files.swift */,
 			);
 			path = "06 - Structure tool window";
 			sourceTree = "<group>";
 		};
-		58AAA58603CBB1CAA5CFD48B /* 03 - Navigating to somwhere we have been */ = {
+		58AAA58603CBB1CAA5CFD48B /* 03 - Navigating to somewhere we have been */ = {
 			isa = PBXGroup;
 			children = (
 				58AAA8276290536AD599D175 /* 3.5. Bookmarks.m */,
@@ -737,7 +740,7 @@
 				58AAA483337DEE127F6296EE /* 3.3. Recent files.txt */,
 				58AAACC9E5DD69E37C328BC2 /* 3.4. Recent edits.m */,
 			);
-			path = "03 - Navigating to somwhere we have been";
+			path = "03 - Navigating to somewhere we have been";
 			sourceTree = "<group>";
 		};
 		58AAA6015D572DAEB7DF1F17 /* Products */ = {
@@ -937,7 +940,7 @@
 			children = (
 				58AAAEE0954DA3FB25B9B72C /* 02 - Navigate to Declaration */,
 				58AAA34132EC20891151FCC5 /* 01 - Navigate to something you know */,
-				58AAA58603CBB1CAA5CFD48B /* 03 - Navigating to somwhere we have been */,
+				58AAA58603CBB1CAA5CFD48B /* 03 - Navigating to somewhere we have been */,
 				58AAACAF7D9AAE28AC7678C2 /* 04 - Navigate class hierarchies */,
 				58AAAAAAD9ADBE5A465CA501 /* 05 - Find usages */,
 				58AAA5471792F54BA3CC9406 /* 06 - Structure tool window */,
@@ -1184,6 +1187,7 @@
 		3A8707001A121F4500634DC5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "JetBrains s.r.o.";
 			};
@@ -1406,6 +1410,7 @@
 				58AAAD6C748B6F96BDF44898 /* 01 - Todo.m in Sources */,
 				58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.m in Sources */,
 				58AAA1A9A54E5A326C44FC56 /* 01 - Adding CocoaPods.m in Sources */,
+				58AAA4A34447AE0EEB8C25F2 /* 6.2. Structure in Swift files.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
