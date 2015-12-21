@@ -14,12 +14,14 @@
 		58AAA06E1E999474ABDD6F4E /* KWHaveMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAB11600C76BE8F5EB1C4 /* KWHaveMatcher.m */; };
 		58AAA07DE40813085D641A62 /* 04 - Extract Variable.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA1ED41D1923474C01621 /* 04 - Extract Variable.m */; };
 		58AAA08282375240CFD7C945 /* 2.3. Quick definition and documentation.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6C01F28E957C30F32B8 /* 2.3. Quick definition and documentation.m */; };
+		58AAA084C1716B111EA03B06 /* 02 - Quick Fixes in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA192FCE5A1C1EF28896D /* 02 - Quick Fixes in Swift.swift */; };
 		58AAA0903896349BC0E3ADCA /* FindUsagesSample.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA5309460CEF09E96725B /* FindUsagesSample.m */; };
 		58AAA0BF135E82F61BE98F7D /* KWLetNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA4B410B4EC6C8586E23B /* KWLetNode.m */; };
 		58AAA0C4A8ACE25791E22E26 /* 6.1. Structure in OC files.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA2CC4E392F715A3D4183 /* 6.1. Structure in OC files.m */; };
 		58AAA0F98243431908F44EC5 /* KWContextNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA49A6222FBFED3F0693B /* KWContextNode.m */; };
 		58AAA11DA6CDB3378B8A81D5 /* KWBeforeEachNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAA8C0C6325C6C7C33FD7 /* KWBeforeEachNode.m */; };
 		58AAA11E58AC27F715567E34 /* 07 - Extract Method.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA1F67A93FD30AAE57138 /* 07 - Extract Method.m */; };
+		58AAA134A7FD107D0C182B16 /* SwiftUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA4F8CFE96D1E08A717D8 /* SwiftUser.swift */; };
 		58AAA139AC65F5907AF6663F /* 08 - Run Inspections.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */; };
 		58AAA18C3A5BA59D0F55F8D0 /* 01 - Highlights.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA4B2505BC529187E871A /* 01 - Highlights.m */; };
 		58AAA190063A8E71E9BA144C /* KWIntercept.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA011108F3209F8887EA0 /* KWIntercept.m */; };
@@ -75,6 +77,7 @@
 		58AAA5D2E289E5755DB03A13 /* KWNull.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA63F5A020830AFB3A01A /* KWNull.m */; };
 		58AAA61852686B9CBE77E9E8 /* KWCallSite.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA201DCCE7EA45ADEEA39 /* KWCallSite.m */; };
 		58AAA61ED2AEBCB8D082D29A /* KWAny.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA44196F36EF530F1FCBE /* KWAny.m */; };
+		58AAA62A1B718AC0D7690FF6 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA5969B276BE3FEFAD1F5 /* twitter.png */; };
 		58AAA640900B1D3205A90E0D /* NSInvocation+OCMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA3A5A523FEABD52C74C8 /* NSInvocation+OCMAdditions.m */; };
 		58AAA644C71010AD8D334FAB /* NSValue+KiwiAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA64EDB561016A2F8CCCE /* NSValue+KiwiAdditions.m */; };
 		58AAA681361D6A60452ADB4A /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA5D3399AAC6D1C3AD524 /* User.m */; };
@@ -104,6 +107,7 @@
 		58AAA8BFE518E32C47B2CECA /* 2.1. Expand Selection.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA87A6D64F6C09CD55189 /* 2.1. Expand Selection.m */; };
 		58AAA8CDA6426019236973AD /* 4.2. Go to Derived or Super.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA41A467BFB7958EE5949 /* 4.2. Go to Derived or Super.m */; };
 		58AAA8E6AF4FCF29EF9D913D /* 07 - Local History.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA9486D9E75E4CF4B728F /* 07 - Local History.m */; };
+		58AAA8F236C8356CF8BF1D54 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAAC3548E7EADCBE4F760 /* facebook.png */; };
 		58AAA8FFBB7808B68EB9504B /* KWInvocationCapturer.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA904FAF963B9526FD26C /* KWInvocationCapturer.m */; };
 		58AAA9004BB43B7EDFF02C8A /* KWContainStringMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAD3A0B7E03FCD10608F2 /* KWContainStringMatcher.m */; };
 		58AAA919588D42375998285D /* KWContainMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6D8B1E1F75AA813D203 /* KWContainMatcher.m */; };
@@ -145,7 +149,6 @@
 		58AAAC5B9CD85CB78ECD49D1 /* 02 - Test Driven Development.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC654F1DDC424436E52C /* 02 - Test Driven Development.m */; };
 		58AAAC683E658B2464203FBE /* 02 - Quick Fixes.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA32E48595A40E1B91C56 /* 02 - Quick Fixes.m */; };
 		58AAAC7FB910D2603E041E21 /* NSProxy+KiwiVerifierAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC717E2D093D9A7CAA26 /* NSProxy+KiwiVerifierAdditions.m */; };
-		58AAAC930860BB0A01DEC3A4 /* 7.1. Rearrange Reformat.php in Resources */ = {isa = PBXBuildFile; fileRef = 58AAACF2B135C5C80480A7CE /* 7.1. Rearrange Reformat.php */; };
 		58AAACBC42DF41A47E61B1FF /* 04 - Gutter and Lens.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA580F80056CA286B0212 /* 04 - Gutter and Lens.m */; };
 		58AAACC809430B0D7F070394 /* KWMatchers.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA98626344B85E0B4AA10 /* KWMatchers.m */; };
 		58AAACC9B820420BF86A3CB1 /* 3.5. Bookmarks.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA8276290536AD599D175 /* 3.5. Bookmarks.m */; };
@@ -186,6 +189,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3AF62A501C282D4C00433613 /* Swift-Bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift-Bridge.h"; sourceTree = "<group>"; };
 		58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "04 - Viewing history.txt"; sourceTree = "<group>"; };
 		58AAA00E1227DD37B683AC77 /* KWNotificationMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWNotificationMatcher.h; sourceTree = "<group>"; };
 		58AAA00F4FF41C6C497A6EDA /* NSMethodSignature+KiwiAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMethodSignature+KiwiAdditions.m"; sourceTree = "<group>"; };
@@ -210,6 +214,7 @@
 		58AAA15679AC80E849463AE1 /* KWGenericMatchEvaluator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWGenericMatchEvaluator.m; sourceTree = "<group>"; };
 		58AAA15D089D07C3C86E32CE /* KWBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBlock.h; sourceTree = "<group>"; };
 		58AAA1819263DECB56175713 /* KWGenericMatchingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWGenericMatchingAdditions.m; sourceTree = "<group>"; };
+		58AAA192FCE5A1C1EF28896D /* 02 - Quick Fixes in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "02 - Quick Fixes in Swift.swift"; sourceTree = "<group>"; };
 		58AAA198B7C38E9612B4EC6E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = README.md; sourceTree = "<group>"; };
 		58AAA1A05F81E9060A5A6300 /* KWHaveMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWHaveMatcher.h; sourceTree = "<group>"; };
 		58AAA1B37CD17DAA14D129CD /* KWProbePoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWProbePoller.h; sourceTree = "<group>"; };
@@ -279,6 +284,7 @@
 		58AAA4C5C2EF8C86B73F29ED /* KWSuiteConfigurationBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWSuiteConfigurationBase.h; sourceTree = "<group>"; };
 		58AAA4C5FAE219C2815EA116 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FindUsages.xib; sourceTree = "<group>"; };
+		58AAA4F8CFE96D1E08A717D8 /* SwiftUser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUser.swift; sourceTree = "<group>"; };
 		58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "5.1. Highlight Usages in File.m"; sourceTree = "<group>"; };
 		58AAA5019182A846A65AC786 /* KWMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMatcher.h; sourceTree = "<group>"; };
 		58AAA51036E61B98F49329E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = LaunchScreen.xib; sourceTree = "<group>"; };
@@ -296,6 +302,7 @@
 		58AAA580F80056CA286B0212 /* 04 - Gutter and Lens.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "04 - Gutter and Lens.m"; sourceTree = "<group>"; };
 		58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "08 - Run Inspections.txt"; sourceTree = "<group>"; };
 		58AAA59616C875EA3586BC96 /* KWSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWSpec.m; sourceTree = "<group>"; };
+		58AAA5969B276BE3FEFAD1F5 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
 		58AAA5AEC10CFA717A09B8E2 /* 4.1. Surround with.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "4.1. Surround with.m"; sourceTree = "<group>"; };
 		58AAA5D3399AAC6D1C3AD524 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
 		58AAA5DA59546956F8F1DF1C /* 1.2. Import Completion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "1.2. Import Completion.m"; sourceTree = "<group>"; };
@@ -380,6 +387,7 @@
 		58AAAA85DFA6BF1E261E44F5 /* KWValue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWValue.h; sourceTree = "<group>"; };
 		58AAAA8C0C6325C6C7C33FD7 /* KWBeforeEachNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWBeforeEachNode.m; sourceTree = "<group>"; };
 		58AAAA91CEBCD279A4790349 /* 01 - Adding CocoaPods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "01 - Adding CocoaPods.m"; sourceTree = "<group>"; };
+		58AAAAC3548E7EADCBE4F760 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
 		58AAAAEF239E56262EE8AC21 /* 06 - Local Terminal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "06 - Local Terminal.txt"; sourceTree = "<group>"; };
 		58AAAAEF5A8FF0CBBECDA05B /* KWMatchVerifier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMatchVerifier.m; sourceTree = "<group>"; };
 		58AAAAF489DADA76F129B2EB /* NSNumber+KiwiAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNumber+KiwiAdditions.h"; sourceTree = "<group>"; };
@@ -419,7 +427,6 @@
 		58AAACCBB3771A18071ACE9E /* KWCaptureSpy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWCaptureSpy.m; sourceTree = "<group>"; };
 		58AAACE14DDC8E486F6475D5 /* KWGenericMatchEvaluator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWGenericMatchEvaluator.h; sourceTree = "<group>"; };
 		58AAACEAF9BC04444E5A0DDF /* KWBeSubclassOfClassMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWBeSubclassOfClassMatcher.m; sourceTree = "<group>"; };
-		58AAACF2B135C5C80480A7CE /* 7.1. Rearrange Reformat.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = "7.1. Rearrange Reformat.php"; sourceTree = "<group>"; };
 		58AAAD0F9A4AD4D511A7E691 /* KWChangeMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWChangeMatcher.h; sourceTree = "<group>"; };
 		58AAAD1BC5782C64A91E7FC4 /* KWMessageSpying.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMessageSpying.h; sourceTree = "<group>"; };
 		58AAAD2413DC77FA64238315 /* KWExampleSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExampleSuite.h; sourceTree = "<group>"; };
@@ -499,6 +506,7 @@
 			children = (
 				58AAAA1BEBA12BFD24F32A67 /* 01 - Navigation */,
 				58AAA085E5DD39659D317FFF /* AppCode Reference Card.pdf */,
+				3AF62A501C282D4C00433613 /* Swift-Bridge.h */,
 				58AAABAEBB99EAA1DFD756FE /* license.txt */,
 				58AAA198B7C38E9612B4EC6E /* README.md */,
 				58AAA4C3DB302B43D95940AD /* Frameworks */,
@@ -718,6 +726,7 @@
 			children = (
 				58AAA5D3399AAC6D1C3AD524 /* User.m */,
 				58AAAD28B7B30DC0CA23A90B /* User.h */,
+				58AAA4F8CFE96D1E08A717D8 /* SwiftUser.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -801,6 +810,7 @@
 				58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */,
 				58AAA580F80056CA286B0212 /* 04 - Gutter and Lens.m */,
 				58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */,
+				58AAA192FCE5A1C1EF28896D /* 02 - Quick Fixes in Swift.swift */,
 			);
 			path = "03 - Inspections";
 			sourceTree = "<group>";
@@ -811,6 +821,8 @@
 				58AAA7FD6F851C807D49DC45 /* 1.1. Basic Completion.m */,
 				58AAA768492BEA8D16CB36B4 /* 1.3. Smart completion.m */,
 				58AAA5DA59546956F8F1DF1C /* 1.2. Import Completion.m */,
+				58AAAAC3548E7EADCBE4F760 /* facebook.png */,
+				58AAA5969B276BE3FEFAD1F5 /* twitter.png */,
 			);
 			path = "01 - Completion";
 			sourceTree = "<group>";
@@ -1020,14 +1032,6 @@
 			path = "06 - Generate code";
 			sourceTree = "<group>";
 		};
-		58AAAB99BFC661924DA6023D /* 07 - Rearrange Reformat */ = {
-			isa = PBXGroup;
-			children = (
-				58AAACF2B135C5C80480A7CE /* 7.1. Rearrange Reformat.php */,
-			);
-			path = "07 - Rearrange Reformat";
-			sourceTree = "<group>";
-		};
 		58AAABA28890DA15080F9F17 /* Code */ = {
 			isa = PBXGroup;
 			children = (
@@ -1092,7 +1096,6 @@
 				58AAA788E0D727D246387723 /* 04 - Surround With */,
 				58AAAB94908D56B6ACF654AA /* 06 - Generate code */,
 				58AAA6D4EB826BFE71BFD817 /* 02 - Selecting Code */,
-				58AAAB99BFC661924DA6023D /* 07 - Rearrange Reformat */,
 			);
 			path = "02 - Editing";
 			sourceTree = "<group>";
@@ -1228,7 +1231,6 @@
 				58AAA9FFE5BA855293CEC796 /* 6.1. Generate Code.m in Resources */,
 				58AAA8BFE518E32C47B2CECA /* 2.1. Expand Selection.m in Resources */,
 				58AAA5151B4190BE78A58DB1 /* 2.2. Column Selection.m in Resources */,
-				58AAAC930860BB0A01DEC3A4 /* 7.1. Rearrange Reformat.php in Resources */,
 				58AAA5BE0324C750F68C6609 /* Images.xcassets in Resources */,
 				58AAA7D2336540976360E6FD /* Main.storyboard in Resources */,
 				58AAAB2BDE1E36ABCC9729DE /* LaunchScreen.xib in Resources */,
@@ -1275,6 +1277,8 @@
 				58AAA03FC93B499C2B9166A0 /* 01 - REST Client.txt in Resources */,
 				58AAAF3ACDD52BE63311324B /* 06 - Local Terminal.txt in Resources */,
 				58AAAA1A1A108D31AA1EC5B2 /* FindUsages.xib in Resources */,
+				58AAA8F236C8356CF8BF1D54 /* facebook.png in Resources */,
+				58AAA62A1B718AC0D7690FF6 /* twitter.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1411,6 +1415,8 @@
 				58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.m in Sources */,
 				58AAA1A9A54E5A326C44FC56 /* 01 - Adding CocoaPods.m in Sources */,
 				58AAA4A34447AE0EEB8C25F2 /* 6.2. Structure in Swift files.swift in Sources */,
+				58AAA134A7FD107D0C182B16 /* SwiftUser.swift in Sources */,
+				58AAA084C1716B111EA03B06 /* 02 - Quick Fixes in Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1583,6 +1589,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Swift-Bridge.h";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1627,6 +1634,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "Swift-Bridge.h";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};

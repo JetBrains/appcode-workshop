@@ -10,7 +10,7 @@
 
 void func() {
     // 1. Rename the variable using the Refactor This keyboard shortcut. New name for $name should be $firstName.
-    //    Note that the IDe can also search in comments / strings.
+    //    Note that the IDE can also search in comments / strings.
     NSArray *array = @[@1, @2, @3, @4];
 
     // 2. See that the Rename refactoring has updated all occurrences of the variables in the current scope.

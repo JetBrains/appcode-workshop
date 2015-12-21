@@ -51,10 +51,10 @@
 
     //self.sayG
 
-    // 4. Type: if (true
+    // 4. Type: if (value
     //    Complete the statement using the keyboard shortcut.
 
-    //if (true
+    // if (value)
 
     // 5. Place the caret right after "say". Use basic completion and select sayGoodbye:.
     //    Tab replaces the statement, enter prepends the statement.
@@ -70,6 +70,6 @@
     // 7. Try resource names completion. Load "facebook.png" file by placing the caret inside the quotes
     //     and use the Cmd+Space shortcut.
 
-    // [UIImage imageNamed: @""];
+     [UIImage imageNamed: @""];
 }
 @end

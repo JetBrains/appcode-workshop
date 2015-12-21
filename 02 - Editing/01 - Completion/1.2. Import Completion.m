@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@implementation Class1 : NSObject
+@implementation Class2 : NSObject
 - (void)autoImport {
     // 1. Declare a variable of UIImage type using completion. It will automatically add necessary import.
     //UIIm

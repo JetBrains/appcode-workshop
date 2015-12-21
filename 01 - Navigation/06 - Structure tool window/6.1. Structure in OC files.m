@@ -24,7 +24,7 @@
 @interface Class1 : NSObject <Protocol1> {
     NSString *_var;
 }
-`
+
 - (void)firstMethod;
 
 - (void)secondMethod;
