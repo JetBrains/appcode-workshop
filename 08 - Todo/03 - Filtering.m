@@ -1,4 +1,3 @@
-<?php
 /**
  * Filtering
  *
@@ -7,7 +6,7 @@
  * Command+6
  */
 
-namespace Todo3\JetBrains;
+@import Foundation
 
 // 1. Open the TODO tool window and make sure the Project scope is selected (show all TODO's in the current project).
 // 2. From the toolbar, click the filter icon and edit filters. Create two new filters:
