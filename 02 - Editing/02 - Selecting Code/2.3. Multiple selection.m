@@ -1,5 +1,5 @@
 /**
-* Multiple Selection in PHP
+* Multiple Selection
 *
 * Put the cursor in multiple locations in a file and write code simultaneously in all these positions.
 *
@@ -26,11 +26,11 @@ void multipleSelection() {
 // 6. Hold Alt and Shift and drag the mouse from the number 6 in front to the // 1.. Note that the multiple selection now selected
 //    a block of text we can work with.
 
-// PhpStorm Resources
+// AppCode Resources
 
-//* Blog | http://blog.jetbrains.com/phpstorm
-//* Twitter | http://twitter.com/phpstorm
-//* Video tutorials | http://www.jetbrains.com/phpstorm/documentation/phpstorm-video-tutorials.jsp
-//* Tutorials | http://confluence.jetbrains.com/display/PhpStorm/Tutorials
+//* Blog | http://blog.jetbrains.com/appcode
+//* Twitter | http://twitter.com/appcode
+//* Video tutorials | https://www.jetbrains.com/appcode/documentation/
+//* Help | https://www.jetbrains.com/objc/help
 
 }
