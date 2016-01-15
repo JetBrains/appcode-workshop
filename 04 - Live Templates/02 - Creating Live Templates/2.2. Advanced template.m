@@ -1,9 +1,9 @@
-<?php
 /**
  * Creating Live Templates
  */
 
-namespace LiveTemplates2\JetBrains;
+@import Foundation;
+
 
 /*
 1. Open the IDE settings | Live Templates and add a new live template.
@@ -26,9 +26,3 @@ namespace LiveTemplates2\JetBrains;
    The $CLASS_NAME$ variable is a hotspot.
    The $END$ variable is a special marker telling the IDE where to locate the cursor after expanding the template.
 */
-
-class LiveTemplates {
-
-    // prop <TAB>
-
-}
