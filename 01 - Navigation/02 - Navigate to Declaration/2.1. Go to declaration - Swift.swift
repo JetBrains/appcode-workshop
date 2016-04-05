@@ -24,4 +24,7 @@ func goToDeclaration() {
     // 6. Navigate to the celebrateBirthday method. Notice navigation in Swift code
     swiftUser.celebrateBirthday()
 
+    // 7. Navigate to all available implementations and categories of Array class
+    //    using Alt+Command+B
+    let int: Array = [1,2,3]
 }
