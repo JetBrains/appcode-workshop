@@ -192,6 +192,7 @@
 		58AAAFD176561C989613E93B /* 3.4. Recent edits.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAACC9E5DD69E37C328BC2 /* 3.4. Recent edits.m */; };
 		58AAAFDD20EDC5E92914D5E7 /* KWSuiteConfigurationBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACC7BEEFA87008882B02 /* KWSuiteConfigurationBase.m */; };
 		58AAAFDF88B9DC1DF8402F3B /* KWValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1E2214E2E0DB39389C7 /* KWValue.m */; };
+		62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -489,6 +490,7 @@
 		58AAAFA372B284FEA625125A /* KWMock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMock.m; sourceTree = "<group>"; };
 		58AAAFCDA6122E4FAB04D3CE /* KWFutureObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFutureObject.m; sourceTree = "<group>"; };
 		58AAAFDC528C1CC3CABEB98F /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringContainsMatcher.m; sourceTree = "<group>"; };
+		62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.1. Go to declaration - Swift.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1147,6 +1149,7 @@
 			children = (
 				58AAA4F8DC324D6B2E87D0C1 /* Sources */,
 				58AAAD8EC6C2AE989F87575A /* 2.1. Go to declaration.m */,
+				62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */,
 				58AAA1BB8C8E3AC4E4E780AA /* 2.2. Go to related symbol.m */,
 				58AAA6C01F28E957C30F32B8 /* 2.3. Quick definition and documentation.m */,
 			);
@@ -1439,6 +1442,7 @@
 				58AAA134A7FD107D0C182B16 /* SwiftUser.swift in Sources */,
 				58AAA084C1716B111EA03B06 /* 02 - Quick Fixes in Swift.swift in Sources */,
 				58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */,
+				62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
 @interface User : NSObject
-- (instancetype)initWithName:(NSString *)name age:(int)age;
+- (instancetype)initWithName:(NSString *)name age:(NSInteger)age;
 - (void)celebrateBirthday;
 @end
 

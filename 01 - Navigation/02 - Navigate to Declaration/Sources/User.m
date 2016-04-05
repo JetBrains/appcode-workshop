@@ -2,7 +2,7 @@
 
 @implementation User {
     NSString *_name;
-    int _age;
+    NSInteger _age;
 }
 
 - (instancetype)initWithName:(NSString *)name age:(int)age {
