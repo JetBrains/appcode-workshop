@@ -68,7 +68,7 @@
     // self vl
 
     // 7. Try resource names completion. Load "facebook.png" file by placing the caret inside the quotes
-    //     and use the Cmd+Space shortcut.
+    //     and use the Ctrl+Space shortcut.
 
      [UIImage imageNamed: @""];
 }
