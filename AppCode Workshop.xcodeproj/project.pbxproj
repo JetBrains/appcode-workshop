@@ -193,6 +193,7 @@
 		58AAAFDD20EDC5E92914D5E7 /* KWSuiteConfigurationBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACC7BEEFA87008882B02 /* KWSuiteConfigurationBase.m */; };
 		58AAAFDF88B9DC1DF8402F3B /* KWValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1E2214E2E0DB39389C7 /* KWValue.m */; };
 		62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */; };
+		62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -491,6 +492,7 @@
 		58AAAFCDA6122E4FAB04D3CE /* KWFutureObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFutureObject.m; sourceTree = "<group>"; };
 		58AAAFDC528C1CC3CABEB98F /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringContainsMatcher.m; sourceTree = "<group>"; };
 		62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.1. Go to declaration - Swift.swift"; sourceTree = "<group>"; };
+		62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.3. Quick definition and documentation - Swift.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1152,6 +1154,7 @@
 				62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */,
 				58AAA1BB8C8E3AC4E4E780AA /* 2.2. Go to related symbol.m */,
 				58AAA6C01F28E957C30F32B8 /* 2.3. Quick definition and documentation.m */,
+				62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */,
 			);
 			path = "02 - Navigate to Declaration";
 			sourceTree = "<group>";
@@ -1443,6 +1446,7 @@
 				58AAA084C1716B111EA03B06 /* 02 - Quick Fixes in Swift.swift in Sources */,
 				58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */,
 				62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */,
+				62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
