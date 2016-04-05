@@ -6,8 +6,6 @@
  * Command+,
  */
 
-@import Foundation;
-
 
 // 1. Through the IDE Preferences | Editor | Todo, add a new pattern: \breview\b.*
 //    This should make the following comment visible.

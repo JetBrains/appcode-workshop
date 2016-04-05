@@ -6,8 +6,6 @@
  * Command+6
  */
 
-@import Foundation;
-
 // 1. Using the keyboard shortcut, show all todos in the project.
 // 2. Switch the scope of todos to just display todos in the current file.
 // 3. Double-click or use the F4 shortcut to go to the first todo comment.
