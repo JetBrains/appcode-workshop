@@ -222,7 +222,6 @@
 		58AAA15D089D07C3C86E32CE /* KWBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBlock.h; sourceTree = "<group>"; };
 		58AAA1819263DECB56175713 /* KWGenericMatchingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWGenericMatchingAdditions.m; sourceTree = "<group>"; };
 		58AAA192FCE5A1C1EF28896D /* 02 - Quick Fixes in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "02 - Quick Fixes in Swift.swift"; sourceTree = "<group>"; };
-		58AAA198B7C38E9612B4EC6E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = README.md; sourceTree = "<group>"; };
 		58AAA1A05F81E9060A5A6300 /* KWHaveMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWHaveMatcher.h; sourceTree = "<group>"; };
 		58AAA1B37CD17DAA14D129CD /* KWProbePoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWProbePoller.h; sourceTree = "<group>"; };
 		58AAA1BB8C8E3AC4E4E780AA /* 2.2. Go to related symbol.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "2.2. Go to related symbol.m"; sourceTree = "<group>"; };
@@ -520,7 +519,6 @@
 				58AAA085E5DD39659D317FFF /* AppCode Reference Card.pdf */,
 				3AF62A501C282D4C00433613 /* Swift-Bridge.h */,
 				58AAABAEBB99EAA1DFD756FE /* license.txt */,
-				58AAA198B7C38E9612B4EC6E /* README.md */,
 				58AAA4C3DB302B43D95940AD /* Frameworks */,
 				58AAACFA8DB7C2D2D510BC5D /* 02 - Editing */,
 				58AAA8905813EC034854C5DA /* 03 - Inspections */,
