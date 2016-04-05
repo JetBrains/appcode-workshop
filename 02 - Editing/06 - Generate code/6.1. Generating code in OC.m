@@ -14,7 +14,7 @@
 // 4. Generate isEquals and hash methods.
 // 5. Place the caret on the 'level' property in the Gamer class. Use Alt+Enter to synthesize it.
 // 6. Plate the caret on Gamer class and press Alt+Enter to implement declared methods logIn and isPaid;
-// 7. Use Command+O shortcut to override isPaid method in PaidGamer class
+// 7. Use Ctrl+O shortcut to override isPaid method in PaidGamer class
 
 @interface Gamer : NSObject
 
