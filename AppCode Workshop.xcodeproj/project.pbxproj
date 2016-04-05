@@ -516,20 +516,20 @@
 			isa = PBXGroup;
 			children = (
 				58AAAA1BEBA12BFD24F32A67 /* 01 - Navigation */,
-				58AAA085E5DD39659D317FFF /* AppCode Reference Card.pdf */,
-				3AF62A501C282D4C00433613 /* Swift-Bridge.h */,
-				58AAABAEBB99EAA1DFD756FE /* license.txt */,
-				58AAA4C3DB302B43D95940AD /* Frameworks */,
 				58AAACFA8DB7C2D2D510BC5D /* 02 - Editing */,
 				58AAA8905813EC034854C5DA /* 03 - Inspections */,
 				58AAA3B7B3254AEEE3C25153 /* 04 - Live Templates */,
-				58AAA41BF3AA8D36EF30F1E5 /* 09 - Version Control */,
 				58AAA25BB52CEDDA1DD909E5 /* 05 - Refactoring */,
 				58AAA9468EA88BFC2B97303C /* 07 - Testing */,
-				58AAA6015D572DAEB7DF1F17 /* Products */,
 				58AAA003E97224C04B55263E /* 08 - Todo */,
-				58AAA93358B31643BD63DC8D /* 12 - Tools */,
+				58AAA41BF3AA8D36EF30F1E5 /* 09 - Version Control */,
 				58AAA1F4AA489E7823288A6F /* 10 - CocoaPods */,
+				58AAA93358B31643BD63DC8D /* 12 - Tools */,
+				58AAA4C3DB302B43D95940AD /* Frameworks */,
+				58AAA6015D572DAEB7DF1F17 /* Products */,
+				58AAA085E5DD39659D317FFF /* AppCode Reference Card.pdf */,
+				3AF62A501C282D4C00433613 /* Swift-Bridge.h */,
+				58AAABAEBB99EAA1DFD756FE /* license.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -648,24 +648,24 @@
 			isa = PBXGroup;
 			children = (
 				58AAABA28890DA15080F9F17 /* Code */,
-				58AAAE12A1E143C16743F5E3 /* 10 - Inline.m */,
-				58AAAC72D9EA1AA0D1D6A055 /* 13 - Rename.m */,
-				58AAAC9BEC03C862AFD2BE93 /* 14 - Safe Delete.m */,
 				58AAA56332EA361F38E25694 /* 01 - Refactor This.m */,
+				58AAADB334219B6976B5D169 /* 02 - Change Signature.m */,
+				58AAA3ED29C4961B832C04EF /* 03 - Copy.txt */,
+				58AAA1ED41D1923474C01621 /* 04 - Extract Variable.m */,
+				58AAAED32389AEA58F9FD8DD /* 05 - Extract Constant.m */,
 				58AAA82A6F215D01A0506A09 /* 06 - Extract Field.m */,
 				58AAA1F67A93FD30AAE57138 /* 07 - Extract Method.m */,
-				58AAA9614160829B719A6867 /* 12 - Pull and Push Members.m */,
-				58AAADB334219B6976B5D169 /* 02 - Change Signature.m */,
-				58AAAED32389AEA58F9FD8DD /* 05 - Extract Constant.m */,
 				58AAA2089F04908D138722A4 /* 08 - Extract Parameter.m */,
-				58AAA1ED41D1923474C01621 /* 04 - Extract Variable.m */,
 				58AAA4453316C759869FD5A8 /* 09 - Extract protocol.h */,
-				58AAA3ED29C4961B832C04EF /* 03 - Copy.txt */,
 				58AAA85E00E6546AEB3E0912 /* 09 - Extract protocol.m */,
-				58AAAED2CC9C1E321ACD574F /* 11 - Move.m */,
+				58AAAE12A1E143C16743F5E3 /* 10 - Inline.m */,
 				58AAA4526D3CE83439B4FB9E /* 11 - Move.h */,
+				58AAAED2CC9C1E321ACD574F /* 11 - Move.m */,
 				58AAADABC276E74B2F46EF47 /* 12 - Pull and Push Members.h */,
+				58AAA9614160829B719A6867 /* 12 - Pull and Push Members.m */,
+				58AAAC72D9EA1AA0D1D6A055 /* 13 - Rename.m */,
 				58AAA14F93337E9B32724789 /* 14 - Safe Delete.h */,
+				58AAAC9BEC03C862AFD2BE93 /* 14 - Safe Delete.m */,
 			);
 			path = "05 - Refactoring";
 			sourceTree = "<group>";
@@ -681,13 +681,13 @@
 		58AAA34132EC20891151FCC5 /* 01 - Navigate to something you know */ = {
 			isa = PBXGroup;
 			children = (
-				58AAA217E7D5488977FBC6CD /* 1.1. Project Tool Window.txt */,
 				58AAA7BB2CFC191490867CDD /* Group */,
+				58AAA217E7D5488977FBC6CD /* 1.1. Project Tool Window.txt */,
+				58AAAB7F20A5CDA964A92A98 /* 1.2. Navigation Bar.txt */,
 				58AAAE66FCB32B22FBFD694E /* 1.3. Navigate to class.txt */,
+				58AAA0337C2CCD91472FAF0E /* 1.4. Navigate to file.txt */,
 				58AAA7710B6A9693D33AB140 /* 1.5. Navigate to symbol.txt */,
 				58AAA3640542FC8D4D2DEAE8 /* 1.6. Search everywhere.txt */,
-				58AAA0337C2CCD91472FAF0E /* 1.4. Navigate to file.txt */,
-				58AAAB7F20A5CDA964A92A98 /* 1.2. Navigation Bar.txt */,
 			);
 			path = "01 - Navigate to something you know";
 			sourceTree = "<group>";
@@ -696,9 +696,9 @@
 			isa = PBXGroup;
 			children = (
 				58AAAC7C3D939DF9A10EF9B4 /* 01 - Basic */,
-				58AAA33759B971DF1F0745CD /* 04 - File Templates */,
-				58AAA49E5D358EF00E2C8FC1 /* 03 - Surround Templates */,
 				58AAA9949DA051A1647D8DE6 /* 02 - Creating Live Templates */,
+				58AAA49E5D358EF00E2C8FC1 /* 03 - Surround Templates */,
+				58AAA33759B971DF1F0745CD /* 04 - File Templates */,
 			);
 			path = "04 - Live Templates";
 			sourceTree = "<group>";
@@ -706,14 +706,14 @@
 		58AAA41BF3AA8D36EF30F1E5 /* 09 - Version Control */ = {
 			isa = PBXGroup;
 			children = (
+				58AAA722A243CF31A763CC48 /* 00 - Preparations.txt */,
+				58AAABF5C677801679493DFF /* 01 - Enable VCS integration.txt */,
+				58AAA282A6A3A181BC8BD24B /* 02 - VCS operations.txt */,
+				58AAA0850A60D4771ADC9E50 /* 03 - Committing Changes.txt */,
+				58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */,
+				58AAAE735519872F153664C4 /* 05 - Git Mercurial Push.txt */,
 				58AAA0F2A9FD92DC017C16D5 /* 06 - Changelists.txt */,
 				58AAA9486D9E75E4CF4B728F /* 07 - Local History.m */,
-				58AAA722A243CF31A763CC48 /* 00 - Preparations.txt */,
-				58AAA282A6A3A181BC8BD24B /* 02 - VCS operations.txt */,
-				58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */,
-				58AAA0850A60D4771ADC9E50 /* 03 - Committing Changes.txt */,
-				58AAAE735519872F153664C4 /* 05 - Git Mercurial Push.txt */,
-				58AAABF5C677801679493DFF /* 01 - Enable VCS integration.txt */,
 			);
 			path = "09 - Version Control";
 			sourceTree = "<group>";
@@ -758,11 +758,11 @@
 		58AAA58603CBB1CAA5CFD48B /* 03 - Navigating to somewhere we have been */ = {
 			isa = PBXGroup;
 			children = (
-				58AAA8276290536AD599D175 /* 3.5. Bookmarks.m */,
 				58AAAC4E7189892431976E96 /* 3.1. Navigate back.m */,
 				58AAA68BFD532F34931751E3 /* 3.2. Next Method.m */,
 				58AAA483337DEE127F6296EE /* 3.3. Recent files.txt */,
 				58AAACC9E5DD69E37C328BC2 /* 3.4. Recent edits.m */,
+				58AAA8276290536AD599D175 /* 3.5. Bookmarks.m */,
 			);
 			path = "03 - Navigating to somewhere we have been";
 			sourceTree = "<group>";
@@ -819,13 +819,13 @@
 			isa = PBXGroup;
 			children = (
 				58AAA4B2505BC529187E871A /* 01 - Highlights.m */,
-				58AAAE07B3DE52B76EFCDCC2 /* 05 - Preferences.m */,
-				58AAA3BEF81A2476F9F6E245 /* 03 - Navigation.m */,
 				58AAA32E48595A40E1B91C56 /* 02 - Quick Fixes.m */,
-				58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */,
-				58AAA580F80056CA286B0212 /* 04 - Gutter and Lens.m */,
-				58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */,
 				58AAA192FCE5A1C1EF28896D /* 02 - Quick Fixes in Swift.swift */,
+				58AAA3BEF81A2476F9F6E245 /* 03 - Navigation.m */,
+				58AAA580F80056CA286B0212 /* 04 - Gutter and Lens.m */,
+				58AAAE07B3DE52B76EFCDCC2 /* 05 - Preferences.m */,
+				58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */,
+				58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */,
 			);
 			path = "03 - Inspections";
 			sourceTree = "<group>";
@@ -834,8 +834,8 @@
 			isa = PBXGroup;
 			children = (
 				58AAA7FD6F851C807D49DC45 /* 1.1. Basic Completion.m */,
-				58AAA768492BEA8D16CB36B4 /* 1.3. Smart completion.m */,
 				58AAA5DA59546956F8F1DF1C /* 1.2. Import Completion.m */,
+				58AAA768492BEA8D16CB36B4 /* 1.3. Smart completion.m */,
 				58AAAAC3548E7EADCBE4F760 /* facebook.png */,
 				58AAA5969B276BE3FEFAD1F5 /* twitter.png */,
 			);
@@ -845,11 +845,11 @@
 		58AAA93358B31643BD63DC8D /* 12 - Tools */ = {
 			isa = PBXGroup;
 			children = (
-				58AAA96753963B70BABF6C32 /* helloworld.sh */,
-				58AAAE99915995E94148F2C4 /* helloworld.bat */,
-				58AAA53E25721A3ADEBF3CFC /* samplerequest.xml */,
 				58AAACCA36BB09351687408E /* 01 - REST Client.txt */,
 				58AAAAEF239E56262EE8AC21 /* 06 - Local Terminal.txt */,
+				58AAAE99915995E94148F2C4 /* helloworld.bat */,
+				58AAA96753963B70BABF6C32 /* helloworld.sh */,
+				58AAA53E25721A3ADEBF3CFC /* samplerequest.xml */,
 			);
 			path = "12 - Tools";
 			sourceTree = "<group>";
@@ -944,9 +944,9 @@
 			isa = PBXGroup;
 			children = (
 				58AAA145B1F2C3F98D7A39F0 /* Code */,
+				58AAABE8695ACDE979365887 /* Kiwi */,
 				58AAA2DB12CE30866654464F /* 01 - Writing Tests.txt */,
 				58AAAC654F1DDC424436E52C /* 02 - Test Driven Development.m */,
-				58AAABE8695ACDE979365887 /* Kiwi */,
 				58AAADEAE82D3DC8F9F68F42 /* 03 - Writing Kiwi Tests.m */,
 			);
 			path = "07 - Testing";
@@ -965,8 +965,8 @@
 		58AAAA1BEBA12BFD24F32A67 /* 01 - Navigation */ = {
 			isa = PBXGroup;
 			children = (
-				58AAAEE0954DA3FB25B9B72C /* 02 - Navigate to Declaration */,
 				58AAA34132EC20891151FCC5 /* 01 - Navigate to something you know */,
+				58AAAEE0954DA3FB25B9B72C /* 02 - Navigate to Declaration */,
 				58AAA58603CBB1CAA5CFD48B /* 03 - Navigating to somewhere we have been */,
 				58AAACAF7D9AAE28AC7678C2 /* 04 - Navigate class hierarchies */,
 				58AAAAAAD9ADBE5A465CA501 /* 05 - Find usages */,
@@ -979,8 +979,8 @@
 			isa = PBXGroup;
 			children = (
 				58AAA064582308E9F728D3B8 /* Code */,
-				58AAAF22410F6E78EEC02786 /* 5.2. Find Usages.m */,
 				58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */,
+				58AAAF22410F6E78EEC02786 /* 5.2. Find Usages.m */,
 			);
 			path = "05 - Find usages";
 			sourceTree = "<group>";
@@ -1107,11 +1107,11 @@
 			isa = PBXGroup;
 			children = (
 				58AAA8B5B4658C1F7FCF35B9 /* 01 - Completion */,
-				58AAA0FBFB9678E730464BDB /* 05 - Intentions */,
+				58AAA6D4EB826BFE71BFD817 /* 02 - Selecting Code */,
 				58AAAEC4D359C5EEF23B7DD5 /* 03 - Moving Code */,
 				58AAA788E0D727D246387723 /* 04 - Surround With */,
+				58AAA0FBFB9678E730464BDB /* 05 - Intentions */,
 				58AAAB94908D56B6ACF654AA /* 06 - Generate code */,
-				58AAA6D4EB826BFE71BFD817 /* 02 - Selecting Code */,
 			);
 			path = "02 - Editing";
 			sourceTree = "<group>";
@@ -1145,10 +1145,10 @@
 		58AAAEE0954DA3FB25B9B72C /* 02 - Navigate to Declaration */ = {
 			isa = PBXGroup;
 			children = (
-				58AAAD8EC6C2AE989F87575A /* 2.1. Go to declaration.m */,
-				58AAA6C01F28E957C30F32B8 /* 2.3. Quick definition and documentation.m */,
 				58AAA4F8DC324D6B2E87D0C1 /* Sources */,
+				58AAAD8EC6C2AE989F87575A /* 2.1. Go to declaration.m */,
 				58AAA1BB8C8E3AC4E4E780AA /* 2.2. Go to related symbol.m */,
+				58AAA6C01F28E957C30F32B8 /* 2.3. Quick definition and documentation.m */,
 			);
 			path = "02 - Navigate to Declaration";
 			sourceTree = "<group>";
