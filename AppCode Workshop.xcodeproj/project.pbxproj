@@ -148,7 +148,7 @@
 		58AAAC10C1FF69715AAC8CAF /* 01 - Writing Tests.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA2DB12CE30866654464F /* 01 - Writing Tests.txt */; };
 		58AAAC128080312501045F44 /* KWStub.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA75676F6C30FE8515DB8 /* KWStub.m */; };
 		58AAAC1BDACDBDC0539B9F63 /* 03 - Navigation.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA3BEF81A2476F9F6E245 /* 03 - Navigation.m */; };
-		58AAAC21FFE3CE583FFBAF63 /* 03 - Filtering.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA83595570F80744000BD /* 03 - Filtering.m */; };
+		58AAAC21FFE3CE583FFBAF63 /* 03 - Filtering.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA83595570F80744000BD /* 03 - Filtering.txt */; };
 		58AAAC328793F67939D5FEF4 /* KWFailure.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC9B444AB4D68A48808B /* KWFailure.m */; };
 		58AAAC5B9CD85CB78ECD49D1 /* 02 - Test Driven Development.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC654F1DDC424436E52C /* 02 - Test Driven Development.m */; };
 		58AAAC683E658B2464203FBE /* 02 - Quick Fixes.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA32E48595A40E1B91C56 /* 02 - Quick Fixes.m */; };
@@ -160,7 +160,7 @@
 		58AAAD1FC2CC5C97863AD73D /* KWChangeMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAA2B3A29794BFB22E017 /* KWChangeMatcher.m */; };
 		58AAAD230F5EB3656E566E38 /* KWBeWithinMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAADC5D58A7604DE7E11BF /* KWBeWithinMatcher.m */; };
 		58AAAD2A22B0F94A023ABC0F /* KWRegularExpressionPatternMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAADF12605CB09794BB66F /* KWRegularExpressionPatternMatcher.m */; };
-		58AAAD6C748B6F96BDF44898 /* 01 - Todo.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA4B31CE0DEAC6E6B10A2 /* 01 - Todo.m */; };
+		58AAAD6C748B6F96BDF44898 /* 01 - Todo.txt in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA4B31CE0DEAC6E6B10A2 /* 01 - Todo.txt */; };
 		58AAAD7DCA2A68EB346105D8 /* KWDeviceInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA65FCF1BF16D54B18E0E /* KWDeviceInfo.m */; };
 		58AAADA6E79B1BBF9733D587 /* NSObject+KiwiVerifierAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAEE867C759DEC9D6F45A /* NSObject+KiwiVerifierAdditions.m */; };
 		58AAADAF621741F49131C24A /* Queue.h in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAD71CDD5F1A1F44AE81C /* Queue.h */; };
@@ -175,7 +175,7 @@
 		58AAAEAFE4A5634381741008 /* 14 - Safe Delete.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAC9BEC03C862AFD2BE93 /* 14 - Safe Delete.m */; };
 		58AAAED1C97F5DC4F03299FB /* 1.3. Navigate to class.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAE66FCB32B22FBFD694E /* 1.3. Navigate to class.txt */; };
 		58AAAEF158B576B8352B00BF /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58AAA67FD91D370D07BAC897 /* SpriteKit.framework */; };
-		58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.m */; };
+		58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.txt in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.txt */; };
 		58AAAF1D573E025F06E95375 /* KWCaptureSpy.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACCBB3771A18071ACE9E /* KWCaptureSpy.m */; };
 		58AAAF2051CB9ACBB3DBE9B8 /* Queue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA9363CE9B98FBC2CC43D /* Queue.m */; };
 		58AAAF3ACDD52BE63311324B /* 06 - Local Terminal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAAEF239E56262EE8AC21 /* 06 - Local Terminal.txt */; };
@@ -285,7 +285,7 @@
 		58AAA483337DEE127F6296EE /* 3.3. Recent files.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3.3. Recent files.txt"; sourceTree = "<group>"; };
 		58AAA49A6222FBFED3F0693B /* KWContextNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWContextNode.m; sourceTree = "<group>"; };
 		58AAA4B2505BC529187E871A /* 01 - Highlights.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "01 - Highlights.m"; sourceTree = "<group>"; };
-		58AAA4B31CE0DEAC6E6B10A2 /* 01 - Todo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "01 - Todo.m"; sourceTree = "<group>"; };
+		58AAA4B31CE0DEAC6E6B10A2 /* 01 - Todo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "01 - Todo.txt"; sourceTree = "<group>"; };
 		58AAA4B410B4EC6C8586E23B /* KWLetNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWLetNode.m; sourceTree = "<group>"; };
 		58AAA4B6F7FC179B54E9E498 /* KWFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWFormatter.h; sourceTree = "<group>"; };
 		58AAA4C2AD41883FCD3E02E4 /* KWBeMemberOfClassMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeMemberOfClassMatcher.h; sourceTree = "<group>"; };
@@ -358,7 +358,7 @@
 		58AAA80D04CD5FC42668BB17 /* NSObject+KiwiMockAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+KiwiMockAdditions.h"; sourceTree = "<group>"; };
 		58AAA8276290536AD599D175 /* 3.5. Bookmarks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "3.5. Bookmarks.m"; sourceTree = "<group>"; };
 		58AAA82A6F215D01A0506A09 /* 06 - Extract Field.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "06 - Extract Field.m"; sourceTree = "<group>"; };
-		58AAA83595570F80744000BD /* 03 - Filtering.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "03 - Filtering.m"; sourceTree = "<group>"; };
+		58AAA83595570F80744000BD /* 03 - Filtering.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "03 - Filtering.txt"; sourceTree = "<group>"; };
 		58AAA84612A845D1DCE8466D /* KWExampleNodeVisitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExampleNodeVisitor.h; sourceTree = "<group>"; };
 		58AAA85E00E6546AEB3E0912 /* 09 - Extract protocol.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "09 - Extract protocol.m"; sourceTree = "<group>"; };
 		58AAA876B415E165BD35C64D /* KWBeEmptyMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeEmptyMatcher.h; sourceTree = "<group>"; };
@@ -425,7 +425,7 @@
 		58AAAC6D822C44E7744F29D0 /* KWStringContainsMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWStringContainsMatcher.h; sourceTree = "<group>"; };
 		58AAAC717E2D093D9A7CAA26 /* NSProxy+KiwiVerifierAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSProxy+KiwiVerifierAdditions.m"; sourceTree = "<group>"; };
 		58AAAC72D9EA1AA0D1D6A055 /* 13 - Rename.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "13 - Rename.m"; sourceTree = "<group>"; };
-		58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "02 - Patterns.m"; sourceTree = "<group>"; };
+		58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "02 - Patterns.txt"; sourceTree = "<group>"; };
 		58AAAC85926CDDC5DDA6F2D9 /* KWBeEmptyMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWBeEmptyMatcher.m; sourceTree = "<group>"; };
 		58AAAC9B444AB4D68A48808B /* KWFailure.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFailure.m; sourceTree = "<group>"; };
 		58AAAC9BEC03C862AFD2BE93 /* 14 - Safe Delete.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "14 - Safe Delete.m"; sourceTree = "<group>"; };
@@ -541,9 +541,9 @@
 			isa = PBXGroup;
 			children = (
 				58AAAE4100740661405DFB08 /* Code */,
-				58AAA4B31CE0DEAC6E6B10A2 /* 01 - Todo.m */,
-				58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.m */,
-				58AAA83595570F80744000BD /* 03 - Filtering.m */,
+				58AAA4B31CE0DEAC6E6B10A2 /* 01 - Todo.txt */,
+				58AAAC73DC5FCB670BB34BCA /* 02 - Patterns.txt */,
+				58AAA83595570F80744000BD /* 03 - Filtering.txt */,
 			);
 			path = "08 - Todo";
 			sourceTree = "<group>";
@@ -1292,7 +1292,7 @@
 				58AAADAF621741F49131C24A /* Queue.h in Resources */,
 				58AAAC10C1FF69715AAC8CAF /* 01 - Writing Tests.txt in Resources */,
 				58AAA711E62B86A56D53E3A5 /* index.html in Resources */,
-				58AAAC21FFE3CE583FFBAF63 /* 03 - Filtering.m in Resources */,
+				58AAAC21FFE3CE583FFBAF63 /* 03 - Filtering.txt in Resources */,
 				58AAA2A270A3E4B82F9813B1 /* helloworld.sh in Resources */,
 				58AAAB48FA963C8576B3A288 /* helloworld.bat in Resources */,
 				58AAA2C8F2B667ABB781FE3E /* samplerequest.xml in Resources */,
@@ -1438,8 +1438,8 @@
 				58AAA43022D0168695049A9C /* 2.2. Go to related symbol.m in Sources */,
 				58AAA00EACD0BA6D3C62249F /* 11 - Move.m in Sources */,
 				58AAAF2051CB9ACBB3DBE9B8 /* Queue.m in Sources */,
-				58AAAD6C748B6F96BDF44898 /* 01 - Todo.m in Sources */,
-				58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.m in Sources */,
+				58AAAD6C748B6F96BDF44898 /* 01 - Todo.txt in Sources */,
+				58AAAF00B093BEAEBBC95A61 /* 02 - Patterns.txt in Sources */,
 				58AAA1A9A54E5A326C44FC56 /* 01 - Adding CocoaPods.m in Sources */,
 				58AAA4A34447AE0EEB8C25F2 /* 6.2. Structure in Swift files.swift in Sources */,
 				58AAA134A7FD107D0C182B16 /* SwiftUser.swift in Sources */,
