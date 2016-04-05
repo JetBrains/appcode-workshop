@@ -134,7 +134,6 @@
 		58AAAAFC5EFC0D5206875F26 /* 13 - Rename.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAC72D9EA1AA0D1D6A055 /* 13 - Rename.m */; };
 		58AAAB252A68ADBC122731AE /* KWMessagePattern.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAA0F4C1A8C699803A8C3 /* KWMessagePattern.m */; };
 		58AAAB2BDE1E36ABCC9729DE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA12FE0146C8B991EF6E2 /* LaunchScreen.xib */; };
-		58AAAB48FA963C8576B3A288 /* helloworld.bat in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAE99915995E94148F2C4 /* helloworld.bat */; };
 		58AAAB5CD2BD7E525912C2B2 /* KWBeTrueMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA95A858BEA8F6A259E0B /* KWBeTrueMatcher.m */; };
 		58AAAB79D688FF41305E70AC /* KWNotificationMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA0B35622DA35B03C36B6 /* KWNotificationMatcher.m */; };
 		58AAAB9D708D2BDEC1422E65 /* KWGenericMatchingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1819263DECB56175713 /* KWGenericMatchingAdditions.m */; };
@@ -471,7 +470,6 @@
 		58AAAE735519872F153664C4 /* 05 - Git Mercurial Push.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "05 - Git Mercurial Push.txt"; sourceTree = "<group>"; };
 		58AAAE74770F027812160A58 /* KWWorkarounds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWWorkarounds.h; sourceTree = "<group>"; };
 		58AAAE8742D52D9C38ED817E /* KWInequalityMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWInequalityMatcher.h; sourceTree = "<group>"; };
-		58AAAE99915995E94148F2C4 /* helloworld.bat */ = {isa = PBXFileReference; lastKnownFileType = file.bat; path = helloworld.bat; sourceTree = "<group>"; };
 		58AAAEA7097E4E8A7D42A7A8 /* KWVerifying.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWVerifying.h; sourceTree = "<group>"; };
 		58AAAEAB6E104EA8684274F9 /* 3.1. Simple template.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "3.1. Simple template.m"; sourceTree = "<group>"; };
 		58AAAEB1F1EC465CB1BBB268 /* KWUserDefinedMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWUserDefinedMatcher.h; sourceTree = "<group>"; };
@@ -851,7 +849,6 @@
 			children = (
 				58AAACCA36BB09351687408E /* 01 - REST Client.txt */,
 				58AAAAEF239E56262EE8AC21 /* 06 - Local Terminal.txt */,
-				58AAAE99915995E94148F2C4 /* helloworld.bat */,
 				58AAA96753963B70BABF6C32 /* helloworld.sh */,
 				58AAA53E25721A3ADEBF3CFC /* samplerequest.xml */,
 			);
@@ -1294,7 +1291,6 @@
 				58AAA711E62B86A56D53E3A5 /* index.html in Resources */,
 				58AAAC21FFE3CE583FFBAF63 /* 03 - Filtering.txt in Resources */,
 				58AAA2A270A3E4B82F9813B1 /* helloworld.sh in Resources */,
-				58AAAB48FA963C8576B3A288 /* helloworld.bat in Resources */,
 				58AAA2C8F2B667ABB781FE3E /* samplerequest.xml in Resources */,
 				58AAA03FC93B499C2B9166A0 /* 01 - REST Client.txt in Resources */,
 				58AAAF3ACDD52BE63311324B /* 06 - Local Terminal.txt in Resources */,
