@@ -22,7 +22,7 @@
 @implementation TDDQueueTest
 // 1. Add a new test method for a non-existent method dequeue
 //
-//- (void)testDequeueRecreasesItemsCount {
+//- (void)testDequeueDecreasesItemsCount {
 //    Queue *queue = [Queue new];
 //    [queue enqueue:@"hi"];
 //    XCTAssertEqual([queue getNumberOfItems], 1);
