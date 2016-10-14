@@ -10,15 +10,16 @@
 
 
 protocol P {
-    func protocolMethod1();
-    func protocolMethod2();
+    func protocolMethod1()
+
+    func protocolMethod2()
 }
 
 class Super {
-    func superMethod();
+    func superMethod()
 }
 
-class Child : Super, P {
+class Child: Super, P {
     // 1. Place the caret here
     // 2. Invoke 'Implement Methods' action; note that all methods from the protocols are selected automatically.
     // 3. Invoke 'Override Merhods' action. Use speed seach to find and implement protocolMethod1

@@ -6,8 +6,8 @@
 import Foundation
 
 func goToDeclaration() {
-    let name = "AppCode";
-    let age = 3;
+    let name = "AppCode"
+    let age = 3
 
     // 1. Ctrl+Click (or Command+Click on Mac) on the User or SwiftUser symbol
     // 2. Use the keyboard shortcut
@@ -26,5 +26,5 @@ func goToDeclaration() {
 
     // 7. Navigate to all available implementations and categories of Array class
     //    using Alt+Command+B
-    let int: Array = [1,2,3]
+    let int: Array = [1, 2, 3]
 }

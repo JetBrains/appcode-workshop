@@ -15,15 +15,15 @@
 */
 
 
-let answer = "42";
+let answer = "42"
 
 protocol AnswerMachine {
-    func protocolMethod();
+    func protocolMethod()
 }
 
-class AnswerMachineV1 : AnswerMachine {
+class AnswerMachineV1: AnswerMachine {
     func askQuestion(question: String) -> String {
-        return answer;
+        return answer
     }
 
     func protocolMethod() {
