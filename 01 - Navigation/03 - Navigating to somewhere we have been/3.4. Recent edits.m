@@ -8,7 +8,7 @@
 * Shift+Command+Delete
 */
 
-@implementation NavigateRecent
+@implementation NavigateRecent : NSObject
 - (void)startingPoint {
     // 1. Navigate to step1
     [self step1];

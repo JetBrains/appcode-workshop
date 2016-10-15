@@ -6,7 +6,7 @@
  * F2 / Shift+F2
  */
 
-@import Foundation
+@import Foundation;
 
 @implementation Navigation : NSObject
 - (void)errorMethod {

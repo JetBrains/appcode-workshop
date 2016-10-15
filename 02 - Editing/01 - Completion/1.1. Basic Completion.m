@@ -37,7 +37,7 @@
     //    Basic completion shows the code completion options for the current context.
     //    Space, tab and enter accept the choice
     //
-    //    Note how [] are automatically added when a method is selected.
+    //    Note how [ ] are automatically added when a method is selected.
 
     //self
 
@@ -47,7 +47,7 @@
 
     //value = ;
 
-    // 3. Type self.sayGoodbye and accept the choice. Note how '.' is automatically changed to [].
+    // 3. Type self.sayGoodbye and accept the choice. Note how '.' is automatically changed to [ ].
 
     //self.sayG
 
@@ -69,7 +69,9 @@
 
     // 7. Try resource names completion. Load "facebook.png" file by placing the caret inside the quotes
     //     and use the Ctrl+Space shortcut.
+    [UIImage imageNamed: @"facebook"];
 
-     [UIImage imageNamed: @""];
+    //8. Show font name completion - place the caret inside the empty font name and invoke Ctrl+Space
+    [UIFont fontWithName:@"" size:1];
 }
 @end

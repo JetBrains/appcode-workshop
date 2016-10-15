@@ -5,8 +5,9 @@
 *
 * Shift+Command+8
 */
+@import Foundation;
 
-@implementation ColumnSelection
+@implementation ColumnSelection : NSObject
 // 1. Enable column selection.
 // 2. Draw a rectangle over the someVariable column.
 // 3. Rename the variable to foo

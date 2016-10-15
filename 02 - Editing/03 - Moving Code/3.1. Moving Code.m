@@ -12,7 +12,7 @@
 
 @import Foundation;
 
-@implementation MovingCode
+@implementation MovingCode : NSObject
 // 1. Order the lines using move line up / down.
 - (void)moveLine {
     int numberFive = 5;

@@ -14,7 +14,7 @@
 - (void)optionalMethod;
 @end
 
-@implementation SurroundWith
+@implementation SurroundWith: NSObject
 // 1. Wrap the statement in the following function in a try/catch block.
 - (void)surroundWithTryCatch {
     NSLog(@"This may be throwing an exception. Riiiight!");

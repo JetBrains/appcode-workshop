@@ -9,7 +9,7 @@
 @import Foundation;
 @import CoreGraphics;
 
-@implementation ExtractConstant
+@implementation ExtractConstant: NSObject
 
 - (CGRect)ensureSize:(CGRect)original {
     CGRect result;

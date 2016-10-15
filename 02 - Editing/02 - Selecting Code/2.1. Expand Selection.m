@@ -8,7 +8,7 @@
 
 @import Foundation;
 
-@implementation SelectingCode
+@implementation SelectingCode : NSObject
 - (void)before{
 }
 
