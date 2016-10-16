@@ -17,11 +17,11 @@
 
 let answer = "42"
 
-protocol AnswerMachine {
+@objc protocol AnswerMachine {
     func protocolMethod()
 }
 
-class AnswerMachineV1: AnswerMachine {
+@objc class AnswerMachineV1: NSObject, AnswerMachine {
     func askQuestion(question: String) -> String {
         return answer
     }

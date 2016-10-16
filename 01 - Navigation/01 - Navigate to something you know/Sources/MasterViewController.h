@@ -8,6 +8,8 @@
 
 
 #import <UIKit/UIKit.h>
+#import "User.h"
+#import "Code-Swift.h"
 
 
 @class DetailViewController;

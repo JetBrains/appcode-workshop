@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCEEE961DB2D25800BE4ED8 /* Data.swift */; };
 		58AAA00EACD0BA6D3C62249F /* 11 - Move.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAED2CC9C1E321ACD574F /* 11 - Move.m */; };
 		58AAA02C65D321AE489BF775 /* 5.1. Intentions.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAA26E4C538A09FCC6010 /* 5.1. Intentions.m */; };
 		58AAA03323AFCCA43E22CDAF /* KWMatchVerifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAAEF5A8FF0CBBECDA05B /* KWMatchVerifier.m */; };
@@ -196,6 +197,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2CCEEE961DB2D25800BE4ED8 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3AF62A501C282D4C00433613 /* Swift-Bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift-Bridge.h"; sourceTree = "<group>"; };
 		58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "04 - Viewing history.txt"; sourceTree = "<group>"; };
 		58AAA00E1227DD37B683AC77 /* KWNotificationMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWNotificationMatcher.h; sourceTree = "<group>"; };
@@ -998,9 +1000,9 @@
 		58AAAB42450BAC4CF00D2A54 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				58AAADFF17E3C54AB4591B41 /* DetailViewController.h */,
 				58AAA512FF089DD1030667D3 /* AppDelegate.h */,
 				58AAAB6C51FB0B7C6A86486D /* AppDelegate.m */,
+				58AAADFF17E3C54AB4591B41 /* DetailViewController.h */,
 				58AAA7A3FF03E007DD7A6D44 /* DetailViewController.m */,
 				58AAA9FF233279BA1AE0A73D /* MasterViewController.m */,
 				58AAA61E530DDA0C699B917B /* MasterViewController.h */,
@@ -1008,6 +1010,7 @@
 				58AAAB3FF82EC7B544592E56 /* Base.lproj */,
 				58AAA4C5FAE219C2815EA116 /* Info.plist */,
 				58AAABBA44BD75860A50754B /* main.m */,
+				2CCEEE961DB2D25800BE4ED8 /* Data.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -1448,6 +1451,7 @@
 				58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */,
 				62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */,
 				62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */,
+				2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
