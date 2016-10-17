@@ -1,4 +1,3 @@
-@objc
 class SwiftUser: User {
 
     init(name: String) {

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCEEE961DB2D25800BE4ED8 /* Data.swift */; };
+		2CCEEF191DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCEEF181DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift */; };
 		58AAA00EACD0BA6D3C62249F /* 11 - Move.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAED2CC9C1E321ACD574F /* 11 - Move.m */; };
 		58AAA02C65D321AE489BF775 /* 5.1. Intentions.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAA26E4C538A09FCC6010 /* 5.1. Intentions.m */; };
 		58AAA03323AFCCA43E22CDAF /* KWMatchVerifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAAEF5A8FF0CBBECDA05B /* KWMatchVerifier.m */; };
@@ -193,11 +194,13 @@
 		58AAAFDD20EDC5E92914D5E7 /* KWSuiteConfigurationBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACC7BEEFA87008882B02 /* KWSuiteConfigurationBase.m */; };
 		58AAAFDF88B9DC1DF8402F3B /* KWValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1E2214E2E0DB39389C7 /* KWValue.m */; };
 		62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */; };
+		62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */; };
 		62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2CCEEE961DB2D25800BE4ED8 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		2CCEEF181DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "01 - Highlights in Swift.swift"; sourceTree = "<group>"; };
 		3AF62A501C282D4C00433613 /* Swift-Bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift-Bridge.h"; sourceTree = "<group>"; };
 		58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "04 - Viewing history.txt"; sourceTree = "<group>"; };
 		58AAA00E1227DD37B683AC77 /* KWNotificationMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWNotificationMatcher.h; sourceTree = "<group>"; };
@@ -492,6 +495,7 @@
 		58AAAFCDA6122E4FAB04D3CE /* KWFutureObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFutureObject.m; sourceTree = "<group>"; };
 		58AAAFDC528C1CC3CABEB98F /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringContainsMatcher.m; sourceTree = "<group>"; };
 		62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.1. Go to declaration - Swift.swift"; sourceTree = "<group>"; };
+		62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1.4. Closure completion in Swift.swift"; sourceTree = "<group>"; };
 		62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.3. Quick definition and documentation - Swift.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -830,6 +834,7 @@
 				58AAAE07B3DE52B76EFCDCC2 /* 05 - Preferences.m */,
 				58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */,
 				58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */,
+				2CCEEF181DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift */,
 			);
 			path = "03 - Inspections";
 			sourceTree = "<group>";
@@ -842,6 +847,7 @@
 				58AAA768492BEA8D16CB36B4 /* 1.3. Smart completion.m */,
 				58AAAAC3548E7EADCBE4F760 /* facebook.png */,
 				58AAA5969B276BE3FEFAD1F5 /* twitter.png */,
+				62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */,
 			);
 			path = "01 - Completion";
 			sourceTree = "<group>";
@@ -1447,11 +1453,13 @@
 				58AAA1A9A54E5A326C44FC56 /* 01 - Adding CocoaPods.m in Sources */,
 				58AAA4A34447AE0EEB8C25F2 /* 6.2. Structure in Swift files.swift in Sources */,
 				58AAA134A7FD107D0C182B16 /* SwiftUser.swift in Sources */,
+				2CCEEF191DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift in Sources */,
 				58AAA084C1716B111EA03B06 /* 02 - Quick Fixes in Swift.swift in Sources */,
 				58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */,
 				62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */,
 				62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */,
 				2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */,
+				62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

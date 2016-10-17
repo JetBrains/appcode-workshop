@@ -9,9 +9,9 @@
 1. Open the IDE settings | Live Templates and add a new live template.
    Name the live template "prop".
 
-   Set the template text to the code found in AdvancedTemplate.txt. Note the variables used (And $$ is used to escape PHP's $ sign)
+   Set the template text to the code found in AdvancedTemplate.txt. Note the variables used.
 
-   Set the context for the live template to be available in PHP.
+   Set the context for the live template to be available in Objective-C.
    Reformat according to style should be enabled.
 
    Click the Edit Variables button. We can specify default values or expressions for our template hotspots.
