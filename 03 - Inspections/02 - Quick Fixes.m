@@ -18,7 +18,7 @@
 // 2. A warning highlight should be shown in the following method because the class AdvancedClass is unknown.
 //    Place the caret over Person and hit Alt+Enter. We can now import the class.
 - (void)importClass {
-    id c = [AdvancedClass new];
+    id c = [Person new];
 }
 
 // 3. An undefined variable $this->_variable is used.

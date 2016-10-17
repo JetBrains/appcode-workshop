@@ -196,6 +196,7 @@
 		62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */; };
 		62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */; };
 		62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */; };
+		62E98AC5347A5FC9F96A1F95 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E98BC5E6664C5BB623CE7F /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -494,7 +495,9 @@
 		58AAAFA372B284FEA625125A /* KWMock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMock.m; sourceTree = "<group>"; };
 		58AAAFCDA6122E4FAB04D3CE /* KWFutureObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFutureObject.m; sourceTree = "<group>"; };
 		58AAAFDC528C1CC3CABEB98F /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringContainsMatcher.m; sourceTree = "<group>"; };
+		62E980C51072BE0FFABBBBE1 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.1. Go to declaration - Swift.swift"; sourceTree = "<group>"; };
+		62E98BC5E6664C5BB623CE7F /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1.4. Closure completion in Swift.swift"; sourceTree = "<group>"; };
 		62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.3. Quick definition and documentation - Swift.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -835,6 +838,7 @@
 				58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */,
 				58AAA58745CD0D78FFA8DE8E /* 08 - Run Inspections.txt */,
 				2CCEEF181DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift */,
+				62E982A971125DF573C77279 /* Source */,
 			);
 			path = "03 - Inspections";
 			sourceTree = "<group>";
@@ -1176,6 +1180,15 @@
 			path = Mocking;
 			sourceTree = "<group>";
 		};
+		62E982A971125DF573C77279 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				62E980C51072BE0FFABBBBE1 /* Person.h */,
+				62E98BC5E6664C5BB623CE7F /* Person.m */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1460,6 +1473,7 @@
 				62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */,
 				2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */,
 				62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */,
+				62E98AC5347A5FC9F96A1F95 /* Person.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
