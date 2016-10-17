@@ -193,9 +193,11 @@
 		58AAAFD176561C989613E93B /* 3.4. Recent edits.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAACC9E5DD69E37C328BC2 /* 3.4. Recent edits.m */; };
 		58AAAFDD20EDC5E92914D5E7 /* KWSuiteConfigurationBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACC7BEEFA87008882B02 /* KWSuiteConfigurationBase.m */; };
 		58AAAFDF88B9DC1DF8402F3B /* KWValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1E2214E2E0DB39389C7 /* KWValue.m */; };
+		62E9819ED914C6BF14B4FCEA /* 3.2. Simple template in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E984020CB49ADF3E935BD9 /* 3.2. Simple template in Swift.swift */; };
 		62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */; };
 		62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */; };
 		62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */; };
+		62E98A1CCB8E1F7156E03B95 /* 1.2 Live Templates in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98957B29C3937D4B40DD5 /* 1.2 Live Templates in Swift.swift */; };
 		62E98AC5347A5FC9F96A1F95 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E98BC5E6664C5BB623CE7F /* Person.m */; };
 /* End PBXBuildFile section */
 
@@ -496,7 +498,9 @@
 		58AAAFCDA6122E4FAB04D3CE /* KWFutureObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFutureObject.m; sourceTree = "<group>"; };
 		58AAAFDC528C1CC3CABEB98F /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringContainsMatcher.m; sourceTree = "<group>"; };
 		62E980C51072BE0FFABBBBE1 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		62E984020CB49ADF3E935BD9 /* 3.2. Simple template in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "3.2. Simple template in Swift.swift"; sourceTree = "<group>"; };
 		62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.1. Go to declaration - Swift.swift"; sourceTree = "<group>"; };
+		62E98957B29C3937D4B40DD5 /* 1.2 Live Templates in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1.2 Live Templates in Swift.swift"; sourceTree = "<group>"; };
 		62E98BC5E6664C5BB623CE7F /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1.4. Closure completion in Swift.swift"; sourceTree = "<group>"; };
 		62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.3. Quick definition and documentation - Swift.swift"; sourceTree = "<group>"; };
@@ -733,6 +737,7 @@
 			isa = PBXGroup;
 			children = (
 				58AAAEAB6E104EA8684274F9 /* 3.1. Simple template.m */,
+				62E984020CB49ADF3E935BD9 /* 3.2. Simple template in Swift.swift */,
 			);
 			path = "03 - Surround Templates";
 			sourceTree = "<group>";
@@ -1105,6 +1110,7 @@
 			isa = PBXGroup;
 			children = (
 				58AAA580B23A73936E6279CB /* 1.1. Live Templates.m */,
+				62E98957B29C3937D4B40DD5 /* 1.2 Live Templates in Swift.swift */,
 			);
 			path = "01 - Basic";
 			sourceTree = "<group>";
@@ -1474,6 +1480,8 @@
 				2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */,
 				62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */,
 				62E98AC5347A5FC9F96A1F95 /* Person.m in Sources */,
+				62E98A1CCB8E1F7156E03B95 /* 1.2 Live Templates in Swift.swift in Sources */,
+				62E9819ED914C6BF14B4FCEA /* 3.2. Simple template in Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
