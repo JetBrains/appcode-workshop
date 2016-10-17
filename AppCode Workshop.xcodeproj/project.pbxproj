@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCEEE961DB2D25800BE4ED8 /* Data.swift */; };
 		2CCEEF191DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCEEF181DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift */; };
 		58AAA00EACD0BA6D3C62249F /* 11 - Move.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAED2CC9C1E321ACD574F /* 11 - Move.m */; };
 		58AAA02C65D321AE489BF775 /* 5.1. Intentions.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAA26E4C538A09FCC6010 /* 5.1. Intentions.m */; };
@@ -75,9 +74,7 @@
 		58AAA54D2FACE8119C3BE0EF /* Queue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA9363CE9B98FBC2CC43D /* Queue.m */; };
 		58AAA570F4BCDE92BDF7F1D1 /* KWGenericMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA053F04D2D42C1039EA7 /* KWGenericMatcher.m */; };
 		58AAA594F84F812B73BE6CF5 /* 3.2. Next Method.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA68BFD532F34931751E3 /* 3.2. Next Method.m */; };
-		58AAA5AE1551AE7452BCAA2F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAB6C51FB0B7C6A86486D /* AppDelegate.m */; };
 		58AAA5BAC1A3C931F9876A2C /* KWWorkarounds.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA43244473B1748D57C84 /* KWWorkarounds.m */; };
-		58AAA5BE0324C750F68C6609 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAD343A411BE7353164AB /* Images.xcassets */; };
 		58AAA5D2E289E5755DB03A13 /* KWNull.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA63F5A020830AFB3A01A /* KWNull.m */; };
 		58AAA61852686B9CBE77E9E8 /* KWCallSite.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA201DCCE7EA45ADEEA39 /* KWCallSite.m */; };
 		58AAA61ED2AEBCB8D082D29A /* KWAny.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA44196F36EF530F1FCBE /* KWAny.m */; };
@@ -98,7 +95,6 @@
 		58AAA7AE967B993DA774AF59 /* 3.3. Recent files.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA483337DEE127F6296EE /* 3.3. Recent files.txt */; };
 		58AAA7C1512B41BFD2DD7118 /* KWBlockRaiseMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA6913613279E54B8FF6A /* KWBlockRaiseMatcher.m */; };
 		58AAA7C7DDBB2B15E75A5B6A /* 05 - Preferences.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAE07B3DE52B76EFCDCC2 /* 05 - Preferences.m */; };
-		58AAA7D2336540976360E6FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAC7854AEF19990325ECA /* Main.storyboard */; };
 		58AAA7F1DDA02E9705C1A26C /* 2.3. Multiple selection.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAE19B18CF9A67ADCFEA5 /* 2.3. Multiple selection.m */; };
 		58AAA813A1FA79CED074D0C7 /* KWRegisterMatchersNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA207AF699E7DF12690E5 /* KWRegisterMatchersNode.m */; };
 		58AAA834F7DD5D935496AA33 /* KWMock.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAFA372B284FEA625125A /* KWMock.m */; };
@@ -122,7 +118,6 @@
 		58AAA97686592FB5972AA093 /* KWObjCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAF65185D09CA36D470D2 /* KWObjCUtilities.m */; };
 		58AAA97A81886A7C0BCC0DA6 /* 00 - Preparations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA722A243CF31A763CC48 /* 00 - Preparations.txt */; };
 		58AAA994A3784D0346F602F1 /* 07 - Find Issues.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAA338534EDF6B714D1A7 /* 07 - Find Issues.m */; };
-		58AAA9B303DA6D1EFCABCD0C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA7A3FF03E007DD7A6D44 /* DetailViewController.m */; };
 		58AAA9FFE5BA855293CEC796 /* 6.1. Generating code in OC.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA656B316255D79FB9849 /* 6.1. Generating code in OC.m */; };
 		58AAAA1A1A108D31AA1EC5B2 /* FindUsages.xib in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */; };
 		58AAAA3A0A2F086D12992097 /* 5.1. Highlight Usages in File.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */; };
@@ -135,7 +130,6 @@
 		58AAAAF5152DD88630FFC0F9 /* 2.1. Simple template.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA3CCD6CD85D595BCF2D5 /* 2.1. Simple template.m */; };
 		58AAAAFC5EFC0D5206875F26 /* 13 - Rename.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAC72D9EA1AA0D1D6A055 /* 13 - Rename.m */; };
 		58AAAB252A68ADBC122731AE /* KWMessagePattern.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAAA0F4C1A8C699803A8C3 /* KWMessagePattern.m */; };
-		58AAAB2BDE1E36ABCC9729DE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA12FE0146C8B991EF6E2 /* LaunchScreen.xib */; };
 		58AAAB5CD2BD7E525912C2B2 /* KWBeTrueMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA95A858BEA8F6A259E0B /* KWBeTrueMatcher.m */; };
 		58AAAB79D688FF41305E70AC /* KWNotificationMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA0B35622DA35B03C36B6 /* KWNotificationMatcher.m */; };
 		58AAAB9D708D2BDEC1422E65 /* KWGenericMatchingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1819263DECB56175713 /* KWGenericMatchingAdditions.m */; };
@@ -145,7 +139,6 @@
 		58AAABD7787BFBD76EF3929B /* KWBeIdenticalToMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA3400A44119832128902 /* KWBeIdenticalToMatcher.m */; };
 		58AAABDF0977B0D274C1E667 /* KWMessageTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA95A24CBD661DB0D6B04 /* KWMessageTracker.m */; };
 		58AAABE38E7E4B4214139F45 /* 2.2. Advanced template.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA723308B114880C5917D /* 2.2. Advanced template.m */; };
-		58AAABE67EFE00F06746AD31 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAABBA44BD75860A50754B /* main.m */; };
 		58AAAC10C1FF69715AAC8CAF /* 01 - Writing Tests.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA2DB12CE30866654464F /* 01 - Writing Tests.txt */; };
 		58AAAC128080312501045F44 /* KWStub.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA75676F6C30FE8515DB8 /* KWStub.m */; };
 		58AAAC1BDACDBDC0539B9F63 /* 03 - Navigation.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA3BEF81A2476F9F6E245 /* 03 - Navigation.m */; };
@@ -172,7 +165,6 @@
 		58AAAE399C5F2134D776A013 /* KWSymbolicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA244F7F75E8C48ECD527 /* KWSymbolicator.m */; };
 		58AAAE3B802C587B8A068ECD /* KWAfterEachNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA079D4B6D170AA83CFCD /* KWAfterEachNode.m */; };
 		58AAAE750F981F1CC71A0823 /* 4.1. Surround with.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAA5AEC10CFA717A09B8E2 /* 4.1. Surround with.m */; };
-		58AAAE9A5E94471684A2B743 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA9FF233279BA1AE0A73D /* MasterViewController.m */; };
 		58AAAEAFE4A5634381741008 /* 14 - Safe Delete.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAC9BEC03C862AFD2BE93 /* 14 - Safe Delete.m */; };
 		58AAAED1C97F5DC4F03299FB /* 1.3. Navigate to class.txt in Resources */ = {isa = PBXBuildFile; fileRef = 58AAAE66FCB32B22FBFD694E /* 1.3. Navigate to class.txt */; };
 		58AAAEF158B576B8352B00BF /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58AAA67FD91D370D07BAC897 /* SpriteKit.framework */; };
@@ -193,16 +185,24 @@
 		58AAAFD176561C989613E93B /* 3.4. Recent edits.m in Resources */ = {isa = PBXBuildFile; fileRef = 58AAACC9E5DD69E37C328BC2 /* 3.4. Recent edits.m */; };
 		58AAAFDD20EDC5E92914D5E7 /* KWSuiteConfigurationBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAACC7BEEFA87008882B02 /* KWSuiteConfigurationBase.m */; };
 		58AAAFDF88B9DC1DF8402F3B /* KWValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AAA1E2214E2E0DB39389C7 /* KWValue.m */; };
+		62E980DA52E3E6DA5CFA4DE6 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 62E98E0D232646CE0FEEF783 /* Info.plist */; };
+		62E98174159B1BE8FFF45808 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E98AE7CF4407CCC9044381 /* MasterViewController.m */; };
 		62E9819ED914C6BF14B4FCEA /* 3.2. Simple template in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E984020CB49ADF3E935BD9 /* 3.2. Simple template in Swift.swift */; };
+		62E982E7EFD4FE991CE635EC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 62E98135EF698C1FD8A05CDA /* LaunchScreen.xib */; };
+		62E983064138FDCC0BB2FAC2 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9850C3F025EB6DB40110E /* Data.swift */; };
 		62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */; };
 		62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */; };
 		62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */; };
+		62E9867A938FD096C9E84773 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 62E980440327C6D6835354E8 /* Contents.json */; };
 		62E98A1CCB8E1F7156E03B95 /* 1.2 Live Templates in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62E98957B29C3937D4B40DD5 /* 1.2 Live Templates in Swift.swift */; };
 		62E98AC5347A5FC9F96A1F95 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E98BC5E6664C5BB623CE7F /* Person.m */; };
+		62E98BB583BA9855C259B73D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62E98A75C2B64B29804CC5C0 /* Main.storyboard */; };
+		62E98E5652776F60EA8E2EB6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E9860E5AA3EDD7559B0BD4 /* main.m */; };
+		62E98EC041156EA1EA464783 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E98086D658A8A5C09EFB15 /* DetailViewController.m */; };
+		62E98F57FA39A8217E789816 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E984C4FC3BC37E7E63DB5D /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2CCEEE961DB2D25800BE4ED8 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		2CCEEF181DB4FCDA00BE4ED8 /* 01 - Highlights in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "01 - Highlights in Swift.swift"; sourceTree = "<group>"; };
 		3AF62A501C282D4C00433613 /* Swift-Bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift-Bridge.h"; sourceTree = "<group>"; };
 		58AAA0043B1C29D448590153 /* 04 - Viewing history.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "04 - Viewing history.txt"; sourceTree = "<group>"; };
@@ -298,15 +298,12 @@
 		58AAA4C2AD41883FCD3E02E4 /* KWBeMemberOfClassMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeMemberOfClassMatcher.h; sourceTree = "<group>"; };
 		58AAA4C5BA487FFAFB811EE8 /* KWBeZeroMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWBeZeroMatcher.h; sourceTree = "<group>"; };
 		58AAA4C5C2EF8C86B73F29ED /* KWSuiteConfigurationBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWSuiteConfigurationBase.h; sourceTree = "<group>"; };
-		58AAA4C5FAE219C2815EA116 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		58AAA4F7396FE07E7BDE1922 /* FindUsages.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FindUsages.xib; sourceTree = "<group>"; };
 		58AAA4F8CFE96D1E08A717D8 /* SwiftUser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUser.swift; sourceTree = "<group>"; };
 		58AAA500AAE9C865628DB1E8 /* 5.1. Highlight Usages in File.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "5.1. Highlight Usages in File.m"; sourceTree = "<group>"; };
 		58AAA5019182A846A65AC786 /* KWMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMatcher.h; sourceTree = "<group>"; };
-		58AAA51036E61B98F49329E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		58AAA5110862250372641214 /* KWIntercept.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWIntercept.h; sourceTree = "<group>"; };
 		58AAA511101C7078AC295730 /* KWStringPrefixMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringPrefixMatcher.m; sourceTree = "<group>"; };
-		58AAA512FF089DD1030667D3 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		58AAA5309460CEF09E96725B /* FindUsagesSample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindUsagesSample.m; sourceTree = "<group>"; };
 		58AAA53E25721A3ADEBF3CFC /* samplerequest.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = samplerequest.xml; sourceTree = "<group>"; };
 		58AAA5429211364E6471DB08 /* KWExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWExample.m; sourceTree = "<group>"; };
@@ -323,7 +320,6 @@
 		58AAA5D3399AAC6D1C3AD524 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
 		58AAA5DA59546956F8F1DF1C /* 1.2. Import Completion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "1.2. Import Completion.m"; sourceTree = "<group>"; };
 		58AAA604D1796E8DAE76B4FB /* 2.3. Create from Editor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "2.3. Create from Editor.m"; sourceTree = "<group>"; };
-		58AAA61E530DDA0C699B917B /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		58AAA62E640E64F49A355BC8 /* KWConformToProtocolMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWConformToProtocolMatcher.h; sourceTree = "<group>"; };
 		58AAA63F5A020830AFB3A01A /* KWNull.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWNull.m; sourceTree = "<group>"; };
 		58AAA64062F316375940C811 /* KWStringPrefixMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWStringPrefixMatcher.h; sourceTree = "<group>"; };
@@ -356,7 +352,6 @@
 		58AAA778C09BF5C2A47F965A /* KWRegisterMatchersNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWRegisterMatchersNode.h; sourceTree = "<group>"; };
 		58AAA78B697C0E997F247DB4 /* KWExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExample.h; sourceTree = "<group>"; };
 		58AAA78B9A4CA4F92A56D26D /* KWAfterAllNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWAfterAllNode.m; sourceTree = "<group>"; };
-		58AAA7A3FF03E007DD7A6D44 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		58AAA7B4F0E4B1BB56D0D6C6 /* NSObject+KiwiStubAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+KiwiStubAdditions.h"; sourceTree = "<group>"; };
 		58AAA7C99D7FCB9AA57F6339 /* KWExpectationType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExpectationType.h; sourceTree = "<group>"; };
 		58AAA7CDF947AA76BE1CFF58 /* KWRespondToSelectorMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWRespondToSelectorMatcher.h; sourceTree = "<group>"; };
@@ -391,7 +386,6 @@
 		58AAA9A28394D1231F2F600D /* KWUserDefinedMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWUserDefinedMatcher.m; sourceTree = "<group>"; };
 		58AAA9AE3023038A5B6DCC14 /* KWMatchVerifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMatchVerifier.h; sourceTree = "<group>"; };
 		58AAA9E2F563CCDD6D8DEC5C /* KWLet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWLet.h; sourceTree = "<group>"; };
-		58AAA9FF233279BA1AE0A73D /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		58AAAA05E720F904EF408B9F /* KWExistVerifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExistVerifier.h; sourceTree = "<group>"; };
 		58AAAA06CBF0A2F31F3092C5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		58AAAA0F4C1A8C699803A8C3 /* KWMessagePattern.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMessagePattern.m; sourceTree = "<group>"; };
@@ -414,18 +408,15 @@
 		58AAAB11600C76BE8F5EB1C4 /* KWHaveMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWHaveMatcher.m; sourceTree = "<group>"; };
 		58AAAB1D9FF57A6D4F66D356 /* KWMatching.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMatching.h; sourceTree = "<group>"; };
 		58AAAB5BC458E51776D60BAC /* KWMatcherFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMatcherFactory.m; sourceTree = "<group>"; };
-		58AAAB6C51FB0B7C6A86486D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		58AAAB6F299CE7BEB1E1FF62 /* KWExampleNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExampleNode.h; sourceTree = "<group>"; };
 		58AAAB7A5D4D5D86BD8C9651 /* KWProbe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWProbe.h; sourceTree = "<group>"; };
 		58AAAB7F20A5CDA964A92A98 /* 1.2. Navigation Bar.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1.2. Navigation Bar.txt"; sourceTree = "<group>"; };
 		58AAABAEBB99EAA1DFD756FE /* license.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = license.txt; sourceTree = "<group>"; };
-		58AAABBA44BD75860A50754B /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		58AAABCAF991E6A61219B2A1 /* KWHaveValueMatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWHaveValueMatcher.h; sourceTree = "<group>"; };
 		58AAABD880DBC568F685E11E /* KWObjCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWObjCUtilities.h; sourceTree = "<group>"; };
 		58AAABE5CC076AE8BAE84813 /* KWNilMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWNilMatcher.m; sourceTree = "<group>"; };
 		58AAABF5C677801679493DFF /* 01 - Enable VCS integration.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "01 - Enable VCS integration.txt"; sourceTree = "<group>"; };
 		58AAAC26196045FDFF3A5CE2 /* KWStringUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringUtilities.m; sourceTree = "<group>"; };
-		58AAAC2B0B4DE20ABD361C71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
 		58AAAC36652C02455653FD12 /* 3.1. Moving Code.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "3.1. Moving Code.m"; sourceTree = "<group>"; };
 		58AAAC4E7189892431976E96 /* 3.1. Navigate back.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "3.1. Navigate back.m"; sourceTree = "<group>"; };
 		58AAAC654F1DDC424436E52C /* 02 - Test Driven Development.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "02 - Test Driven Development.m"; sourceTree = "<group>"; };
@@ -450,7 +441,6 @@
 		58AAAD1BC5782C64A91E7FC4 /* KWMessageSpying.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMessageSpying.h; sourceTree = "<group>"; };
 		58AAAD2413DC77FA64238315 /* KWExampleSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWExampleSuite.h; sourceTree = "<group>"; };
 		58AAAD28B7B30DC0CA23A90B /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
-		58AAAD343A411BE7353164AB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		58AAAD3A0B7E03FCD10608F2 /* KWContainStringMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWContainStringMatcher.m; sourceTree = "<group>"; };
 		58AAAD43C68B52F07C44002B /* ClassToCopy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassToCopy.h; sourceTree = "<group>"; };
 		58AAAD44E2B83F29CF85ECB7 /* KWAfterAllNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWAfterAllNode.h; sourceTree = "<group>"; };
@@ -466,7 +456,6 @@
 		58AAADEAE82D3DC8F9F68F42 /* 03 - Writing Kiwi Tests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "03 - Writing Kiwi Tests.m"; sourceTree = "<group>"; };
 		58AAADF12605CB09794BB66F /* KWRegularExpressionPatternMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWRegularExpressionPatternMatcher.m; sourceTree = "<group>"; };
 		58AAADF641B5E85A546893CD /* KWReceiveMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWReceiveMatcher.m; sourceTree = "<group>"; };
-		58AAADFF17E3C54AB4591B41 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		58AAAE07B3DE52B76EFCDCC2 /* 05 - Preferences.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "05 - Preferences.m"; sourceTree = "<group>"; };
 		58AAAE12A1E143C16743F5E3 /* 10 - Inline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "10 - Inline.m"; sourceTree = "<group>"; };
 		58AAAE19B18CF9A67ADCFEA5 /* 2.3. Multiple selection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "2.3. Multiple selection.m"; sourceTree = "<group>"; };
@@ -497,12 +486,24 @@
 		58AAAFA372B284FEA625125A /* KWMock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMock.m; sourceTree = "<group>"; };
 		58AAAFCDA6122E4FAB04D3CE /* KWFutureObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWFutureObject.m; sourceTree = "<group>"; };
 		58AAAFDC528C1CC3CABEB98F /* KWStringContainsMatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWStringContainsMatcher.m; sourceTree = "<group>"; };
+		62E980440327C6D6835354E8 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		62E98086D658A8A5C09EFB15 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		62E980C51072BE0FFABBBBE1 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		62E98225C5CFDBBB6E6A9DF7 /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		62E984020CB49ADF3E935BD9 /* 3.2. Simple template in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "3.2. Simple template in Swift.swift"; sourceTree = "<group>"; };
+		62E984C4FC3BC37E7E63DB5D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		62E9850C3F025EB6DB40110E /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		62E98598B59CC6AB6E4F6B07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
 		62E9860CA99FEA881DEBD389 /* 2.1. Go to declaration - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.1. Go to declaration - Swift.swift"; sourceTree = "<group>"; };
+		62E9860E5AA3EDD7559B0BD4 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		62E989036FD417EAD5133BEB /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		62E98957B29C3937D4B40DD5 /* 1.2 Live Templates in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1.2 Live Templates in Swift.swift"; sourceTree = "<group>"; };
+		62E9896DC89898C7DCBE4F5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		62E98AE7CF4407CCC9044381 /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		62E98BC5E6664C5BB623CE7F /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		62E98C1B4691093474AA13AD /* 1.4. Closure completion in Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1.4. Closure completion in Swift.swift"; sourceTree = "<group>"; };
+		62E98C44B52B0E90D08B0921 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		62E98E0D232646CE0FEEF783 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		62E98F96FB22DF14C72BFA6E /* 2.3. Quick definition and documentation - Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2.3. Quick definition and documentation - Swift.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -530,6 +531,7 @@
 		3A8706FF1A121F4500634DC5 = {
 			isa = PBXGroup;
 			children = (
+				62E98A13F8095E5815BAB54D /* Project */,
 				58AAAA1BEBA12BFD24F32A67 /* 01 - Navigation */,
 				58AAACFA8DB7C2D2D510BC5D /* 02 - Editing */,
 				58AAA8905813EC034854C5DA /* 03 - Inspections */,
@@ -812,7 +814,6 @@
 		58AAA7BB2CFC191490867CDD /* Group */ = {
 			isa = PBXGroup;
 			children = (
-				58AAAB42450BAC4CF00D2A54 /* Sources */,
 			);
 			name = Group;
 			sourceTree = "<group>";
@@ -1003,33 +1004,6 @@
 			path = "05 - Find usages";
 			sourceTree = "<group>";
 		};
-		58AAAB3FF82EC7B544592E56 /* Base.lproj */ = {
-			isa = PBXGroup;
-			children = (
-				58AAAC7854AEF19990325ECA /* Main.storyboard */,
-				58AAA12FE0146C8B991EF6E2 /* LaunchScreen.xib */,
-			);
-			path = Base.lproj;
-			sourceTree = "<group>";
-		};
-		58AAAB42450BAC4CF00D2A54 /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-				58AAA512FF089DD1030667D3 /* AppDelegate.h */,
-				58AAAB6C51FB0B7C6A86486D /* AppDelegate.m */,
-				58AAADFF17E3C54AB4591B41 /* DetailViewController.h */,
-				58AAA7A3FF03E007DD7A6D44 /* DetailViewController.m */,
-				58AAA9FF233279BA1AE0A73D /* MasterViewController.m */,
-				58AAA61E530DDA0C699B917B /* MasterViewController.h */,
-				58AAAD343A411BE7353164AB /* Images.xcassets */,
-				58AAAB3FF82EC7B544592E56 /* Base.lproj */,
-				58AAA4C5FAE219C2815EA116 /* Info.plist */,
-				58AAABBA44BD75860A50754B /* main.m */,
-				2CCEEE961DB2D25800BE4ED8 /* Data.swift */,
-			);
-			path = Sources;
-			sourceTree = "<group>";
-		};
 		58AAAB58CF4AB7A447099AFA /* Nodes */ = {
 			isa = PBXGroup;
 			children = (
@@ -1186,6 +1160,24 @@
 			path = Mocking;
 			sourceTree = "<group>";
 		};
+		62E98298148912022B4354EB /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				62E9860E5AA3EDD7559B0BD4 /* main.m */,
+				62E98CB16B51DBBD7504F461 /* Base.lproj */,
+				62E9850C3F025EB6DB40110E /* Data.swift */,
+				62E98E0D232646CE0FEEF783 /* Info.plist */,
+				62E989036FD417EAD5133BEB /* AppDelegate.h */,
+				62E984C4FC3BC37E7E63DB5D /* AppDelegate.m */,
+				62E98C490744A7EFDB734B2B /* Images.xcassets */,
+				62E98C44B52B0E90D08B0921 /* DetailViewController.h */,
+				62E98086D658A8A5C09EFB15 /* DetailViewController.m */,
+				62E98225C5CFDBBB6E6A9DF7 /* MasterViewController.h */,
+				62E98AE7CF4407CCC9044381 /* MasterViewController.m */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
 		62E982A971125DF573C77279 /* Source */ = {
 			isa = PBXGroup;
 			children = (
@@ -1193,6 +1185,39 @@
 				62E98BC5E6664C5BB623CE7F /* Person.m */,
 			);
 			path = Source;
+			sourceTree = "<group>";
+		};
+		62E98371C20650A9381569D9 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				62E980440327C6D6835354E8 /* Contents.json */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
+		62E98A13F8095E5815BAB54D /* Project */ = {
+			isa = PBXGroup;
+			children = (
+				62E98298148912022B4354EB /* Sources */,
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+		62E98C490744A7EFDB734B2B /* Images.xcassets */ = {
+			isa = PBXGroup;
+			children = (
+				62E98371C20650A9381569D9 /* AppIcon.appiconset */,
+			);
+			path = Images.xcassets;
+			sourceTree = "<group>";
+		};
+		62E98CB16B51DBBD7504F461 /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				62E98A75C2B64B29804CC5C0 /* Main.storyboard */,
+				62E98135EF698C1FD8A05CDA /* LaunchScreen.xib */,
+			);
+			path = Base.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1283,9 +1308,6 @@
 				58AAA9FFE5BA855293CEC796 /* 6.1. Generating code in OC.m in Resources */,
 				58AAA8BFE518E32C47B2CECA /* 2.1. Expand Selection.m in Resources */,
 				58AAA5151B4190BE78A58DB1 /* 2.2. Column Selection.m in Resources */,
-				58AAA5BE0324C750F68C6609 /* Images.xcassets in Resources */,
-				58AAA7D2336540976360E6FD /* Main.storyboard in Resources */,
-				58AAAB2BDE1E36ABCC9729DE /* LaunchScreen.xib in Resources */,
 				58AAA7F1DDA02E9705C1A26C /* 2.3. Multiple selection.m in Resources */,
 				58AAA7C7DDBB2B15E75A5B6A /* 05 - Preferences.m in Resources */,
 				58AAAC1BDACDBDC0539B9F63 /* 03 - Navigation.m in Resources */,
@@ -1335,6 +1357,10 @@
 				58AAAFC0B00DE41BA637D3B9 /* 1.6. Search everywhere.txt in Resources */,
 				58AAA685C2D2D6F225CD6712 /* 1.4. Navigate to file.txt in Resources */,
 				58AAA27A06CEB03E7745282C /* 1.2. Navigation Bar.txt in Resources */,
+				62E98BB583BA9855C259B73D /* Main.storyboard in Resources */,
+				62E982E7EFD4FE991CE635EC /* LaunchScreen.xib in Resources */,
+				62E980DA52E3E6DA5CFA4DE6 /* Info.plist in Resources */,
+				62E9867A938FD096C9E84773 /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1454,10 +1480,6 @@
 				58AAAA992C67F02F228963D5 /* 1.1. Basic Completion.m in Sources */,
 				58AAA4585D0B33752B1C05E5 /* 1.3. Smart completion.m in Sources */,
 				58AAA86B4AF637E26B212F97 /* 1.2. Import Completion.m in Sources */,
-				58AAA5AE1551AE7452BCAA2F /* AppDelegate.m in Sources */,
-				58AAA9B303DA6D1EFCABCD0C /* DetailViewController.m in Sources */,
-				58AAAE9A5E94471684A2B743 /* MasterViewController.m in Sources */,
-				58AAABE67EFE00F06746AD31 /* main.m in Sources */,
 				58AAA18C3A5BA59D0F55F8D0 /* 01 - Highlights.m in Sources */,
 				58AAA38E859785C3D6D32BBF /* 1.1. Live Templates.m in Sources */,
 				58AAA8E6AF4FCF29EF9D913D /* 07 - Local History.m in Sources */,
@@ -1477,29 +1499,33 @@
 				58AAA249DAED4ACC9ED209D7 /* 6.2. Override-Implement in Swift.swift in Sources */,
 				62E9860A70DBF32F8DF0C8BF /* 2.1. Go to declaration - Swift.swift in Sources */,
 				62E98646B3E9330076FF4983 /* 2.3. Quick definition and documentation - Swift.swift in Sources */,
-				2CCEEE971DB2D25800BE4ED8 /* Data.swift in Sources */,
 				62E9862C7F0CF4F38D499D98 /* 1.4. Closure completion in Swift.swift in Sources */,
 				62E98AC5347A5FC9F96A1F95 /* Person.m in Sources */,
 				62E98A1CCB8E1F7156E03B95 /* 1.2 Live Templates in Swift.swift in Sources */,
 				62E9819ED914C6BF14B4FCEA /* 3.2. Simple template in Swift.swift in Sources */,
+				62E98E5652776F60EA8E2EB6 /* main.m in Sources */,
+				62E983064138FDCC0BB2FAC2 /* Data.swift in Sources */,
+				62E98F57FA39A8217E789816 /* AppDelegate.m in Sources */,
+				62E98EC041156EA1EA464783 /* DetailViewController.m in Sources */,
+				62E98174159B1BE8FFF45808 /* MasterViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		58AAA12FE0146C8B991EF6E2 /* LaunchScreen.xib */ = {
+		62E98135EF698C1FD8A05CDA /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				58AAA51036E61B98F49329E3 /* Base */,
+				62E9896DC89898C7DCBE4F5F /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
-		58AAAC7854AEF19990325ECA /* Main.storyboard */ = {
+		62E98A75C2B64B29804CC5C0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				58AAAC2B0B4DE20ABD361C71 /* Base */,
+				62E98598B59CC6AB6E4F6B07 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -1692,7 +1718,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = "$(SRCROOT)/01 - Navigation/01 - Navigate to something you know/Sources/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Project/Sources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -1742,7 +1768,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = "$(SRCROOT)/01 - Navigation/01 - Navigate to something you know/Sources/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Project/Sources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
