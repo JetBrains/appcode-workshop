@@ -1163,17 +1163,16 @@
 		62E98298148912022B4354EB /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				62E9860E5AA3EDD7559B0BD4 /* main.m */,
 				62E98CB16B51DBBD7504F461 /* Base.lproj */,
-				62E9850C3F025EB6DB40110E /* Data.swift */,
-				62E98E0D232646CE0FEEF783 /* Info.plist */,
 				62E989036FD417EAD5133BEB /* AppDelegate.h */,
 				62E984C4FC3BC37E7E63DB5D /* AppDelegate.m */,
-				62E98C490744A7EFDB734B2B /* Images.xcassets */,
+				62E9850C3F025EB6DB40110E /* Data.swift */,
 				62E98C44B52B0E90D08B0921 /* DetailViewController.h */,
 				62E98086D658A8A5C09EFB15 /* DetailViewController.m */,
 				62E98225C5CFDBBB6E6A9DF7 /* MasterViewController.h */,
 				62E98AE7CF4407CCC9044381 /* MasterViewController.m */,
+				62E9860E5AA3EDD7559B0BD4 /* main.m */,
+				62E98E0D232646CE0FEEF783 /* Info.plist */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -1208,12 +1207,14 @@
 			children = (
 				62E98371C20650A9381569D9 /* AppIcon.appiconset */,
 			);
-			path = Images.xcassets;
+			name = Images.xcassets;
+			path = ../Images.xcassets;
 			sourceTree = "<group>";
 		};
 		62E98CB16B51DBBD7504F461 /* Base.lproj */ = {
 			isa = PBXGroup;
 			children = (
+				62E98C490744A7EFDB734B2B /* Images.xcassets */,
 				62E98A75C2B64B29804CC5C0 /* Main.storyboard */,
 				62E98135EF698C1FD8A05CDA /* LaunchScreen.xib */,
 			);
