@@ -26,6 +26,6 @@
     newVar = 1;
 }
 
-// 4. Find all available intention in Preferences | Editor | Inspections
+// 4. Find all available intention in Preferences | Editor | Intentions
 
 @end
