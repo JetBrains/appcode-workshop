@@ -1,8 +1,16 @@
 class QuickFixesInSwift {
-    func foo() throws {
+    func throwingFunction() throws {
     }
 
     func callFoo() {
-        foo()
+        throwingFunction()
+    }
+
+    func sourceKitFixes() {
+        println(__LINE__)
+    }
+
+    func spelling() {
+        let mispeled = 0
     }
 }

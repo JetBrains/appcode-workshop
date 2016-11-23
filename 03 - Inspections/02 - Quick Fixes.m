@@ -21,9 +21,9 @@
     id c = [Person new];
 }
 
-// 3. An undefined variable $this->_variable is used.
-//    Place the caret over "_variable" and hit Alt+Enter. We can now generate the field on our class.
+// 3. An undefined property self.variable is used.
+//    Place the caret over "variable" and hit Alt+Enter. We can now generate the field on our class.
 - (void)undefinedVariable {
-    self->_variable = @"test";
+    self.variable = @"test";
 }
 @end
