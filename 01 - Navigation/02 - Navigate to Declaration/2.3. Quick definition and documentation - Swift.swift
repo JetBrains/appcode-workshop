@@ -1,7 +1,16 @@
-//
-// Created by jetbrains on 05/04/16.
-// Copyright (c) 2016 JetBrains s.r.o. All rights reserved.
-//
+/**
+ * Quick definition
+ * Shows definition popup on the symbols without leaving the editor
+ *
+ * Cmd+Y
+ * Alt+Space (may conflict with system shortcut)
+ *
+ * Quick documentation
+ * Shows documentation popup. Shows substitution for a macro.
+ *
+ * F1
+ *
+ */
 
 import Foundation
 
