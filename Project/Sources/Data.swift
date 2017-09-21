@@ -15,17 +15,17 @@ import Foundation
             return objects.count
         }
     }
-    @objc func insert(object: (NSDate), at: (Int)) {
-        objects.insertObject(object, atIndex: at)
+    @objc func insert(_ object: (Date), at: (Int)) {
+        objects.insert(object, at: at)
     }
 
-    @objc func remove(at: Int) {
-        objects.removeObjectAtIndex(at)
+    @objc func remove(_ at: Int) {
+        objects.removeObject(at: at)
     }
 
-    subscript(index: Int) -> NSDate {
+    subscript(index: Int) -> Date {
         get {
-            return objects[index] as! NSDate
+            return objects[index] as! Date
         }
         set(newValue) {
             objects[index] = newValue

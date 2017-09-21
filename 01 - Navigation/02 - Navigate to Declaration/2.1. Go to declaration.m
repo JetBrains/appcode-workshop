@@ -16,7 +16,7 @@ void goToDeclaration() {
     NSString *name = @"AppCode";
     int age = 3;
 
-    // 1. Ctrl+Click (or Command+Click on Mac) on the User symbol
+    // 1. Command+Click on the User symbol
     // 2. Use the keyboard shortcut
     // 3. Go to Declaration for the age variable passed into the below constructor
     User *user = [[User alloc] initWithName: name age: age];

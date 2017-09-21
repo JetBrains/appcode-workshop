@@ -22,7 +22,7 @@ let answer = "42"
 }
 
 @objc class AnswerMachineV1: NSObject, AnswerMachine {
-    func askQuestion(question: String) -> String {
+    func askQuestion(_ question: String) -> String {
         return answer
     }
 

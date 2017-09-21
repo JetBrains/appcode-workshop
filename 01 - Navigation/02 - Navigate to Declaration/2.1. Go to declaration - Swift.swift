@@ -9,7 +9,7 @@ func goToDeclaration() {
     let name = "AppCode"
     let age = 3
 
-    // 1. Ctrl+Click (or Command+Click on Mac) on the User or SwiftUser symbol
+    // 1. Command+Click on the User or SwiftUser symbol
     // 2. Use the keyboard shortcut
     // Notice that we use constructor defined in Objective-C and we jump to the corresponding Objective-C file
     let user = User(name: name, age: age)
@@ -19,7 +19,7 @@ func goToDeclaration() {
     // 4. Go to Declaration for the name variable passed into the below constructor
 
     // 5. Navigate to the celebrateBirthday method. Notice navigation in Objective-C code
-    user.celebrateBirthday()
+    user?.celebrateBirthday()
 
     // 6. Navigate to the celebrateBirthday method. Notice navigation in Swift code
     swiftUser.celebrateBirthday()

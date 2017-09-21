@@ -22,4 +22,3 @@
     [[NavigateTo new] destination];
 }
 @end
-

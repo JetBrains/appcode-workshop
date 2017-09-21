@@ -29,7 +29,7 @@ do {
    Save the live template.
 */
 
-enum MyError: ErrorType {
+enum MyError: Error {
     case first
     case second
 }

@@ -7,6 +7,6 @@ class QuickFixesInSwift {
     }
 
     func sourceKitFixes() {
-        println(__LINE__)
+        print(__LINE__)
     }
 }

@@ -9,7 +9,7 @@
 import Foundation
 
 class ClosureCompletion {
-    func functionWithClosureArguments(argument: Int, closure: (Int, Int, String) -> String){
+    func functionWithClosureArguments(_ argument: Int, closure: (Int, Int, String) -> String){
 
     }
 

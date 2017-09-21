@@ -1,3 +1,4 @@
+[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 # AppCode Workshop
 
 In these materials, you'll learn about many of the features and productivity tools available in [AppCode](http://www.jetbrains.com/appcode) IDE. Examples are navigation, editing, inspections, live templates, refactorings, tools like CocoaPods and the REST client and many more things. It's virtually impossible to cover every option and feature in AppCode, but we're providing a number of practical exercises on how we can do our daily work as an OS X or iOS developer.
