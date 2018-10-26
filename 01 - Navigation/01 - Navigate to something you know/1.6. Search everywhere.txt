@@ -1,9 +1,0 @@
-Search Everywhere
-
-Search files, classes, actions and settings all at once.
-
-Double shift
-
-1. Launching Search Everywhere will display recent files.
-
-2. Find Go to declaration.m file and open it.

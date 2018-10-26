@@ -1,7 +1,0 @@
-Recent files
-
-Show a list of recent files
-
-Command+E
-
-1. Filter list by typing - middle matching, wildcards and CamelHumps
